@@ -16,7 +16,8 @@
 
 #### Другие подборки
 * [Awesome threat modeling](https://github.com/hysnsec/awesome-threat-modelling)
-### Статические анализаторы кода (SAST)
+### Статические анализаторы приложений (SAST)
+Статический анализатор кода - инструмент, сообщающий об уязвимости приложения, ориентируясь на исходные коды приложения.
 #### Бесплатные / Open-source
 * [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan)
 * [Salus](https://github.com/coinbase/salus)
@@ -25,14 +26,17 @@
 #### Другие подборки
 * [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 * [Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis%20)
-### Динамические анализаторы кода (DAST)
+### Динамические анализаторы приложений (DAST)
+Динамический анализатор кода - инструмент, сообщающий об уязвимости приложения, ориентируясь на ответы сервера по заданным запросам.
 #### Бесплатные / Open-source
 * [Arachni](https://github.com/Arachni/arachni%20)
 * [OWASP ZAP](https://github.com/zaproxy/zaproxy%20)
 * [w3af](https://github.com/andresriancho/w3af%20)
 #### Другие подборки
 * [Awesome DAST](https://github.com/analysis-tools-dev/dynamic-analysis/%20)
+### Поиск секретов
 ### Анализаторы сторонних компонентов (SCA)
+Анализатор сторонних компонентов - инструмент, который осуществляет поиск уязвимостей в сторонних open-source компонентах, подключенных к проекту. 
 #### Бесплатные / Open-source
 * [Dependency Check](https://github.com/jeremylong/DependencyCheck%20)
 * [Dependency Track](https://dependencytrack.org/)
