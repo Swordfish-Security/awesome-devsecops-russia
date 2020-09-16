@@ -30,7 +30,18 @@
 * [Arachni](https://github.com/Arachni/arachni%20)
 * [OWASP ZAP](https://github.com/zaproxy/zaproxy%20)
 * [w3af](https://github.com/andresriancho/w3af%20)
+#### Другие подборки
+* [Awesome DAST](https://github.com/analysis-tools-dev/dynamic-analysis/%20)
 ### Анализаторы сторонних компонентов (SCA)
+#### Бесплатные / Open-source
+* [Dependency Check](https://github.com/jeremylong/DependencyCheck%20)
+* [Dependency Track](https://dependencytrack.org/)
+* [Nexus Vulnerability Scanner](https://www.sonatype.com/appscan)
+* [ClearlyDefined](https://clearlydefined.io/?sortDesc=true&sort=releaseDate)
+* [Renovate](https://renovate.whitesourcesoftware.com/)
+* [Dependabot](https://dependabot.com/)
+#### Другие подборки
+* [OWASP Composition Analysis](https://owasp.org/www-community/Component_Analysis%20)
 ### Сканеры Docker образов
 ### Безопасность Kubernetes
 ## Статьи
