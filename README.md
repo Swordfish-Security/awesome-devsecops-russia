@@ -26,6 +26,10 @@
 * [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 * [Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis%20)
 ### Динамические анализаторы кода (DAST)
+#### Бесплатные / Open-source
+* [Arachni](https://github.com/Arachni/arachni%20)
+* [OWASP ZAP](https://github.com/zaproxy/zaproxy%20)
+* [w3af](https://github.com/andresriancho/w3af%20)
 ### Анализаторы сторонних компонентов (SCA)
 ### Сканеры Docker образов
 ### Безопасность Kubernetes
