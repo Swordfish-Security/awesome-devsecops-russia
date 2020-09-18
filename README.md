@@ -46,6 +46,10 @@
 * [Dependabot](https://dependabot.com/)
 #### Другие подборки
 * [OWASP Composition Analysis](https://owasp.org/www-community/Component_Analysis)
+### Тестирование по принципам Behaviour Driven Development
+#### Бесплатные / Open-source
+* [BDD-Security](https://github.com/iriusrisk/bdd-security)
+* [Gauntlt](https://github.com/gauntlt/gauntlt)
 ### Сканеры Docker образов
 #### Бесплатные / Open-source
 * [Clair](https://github.com/quay/clair)
@@ -54,18 +58,32 @@
 * [AquaMicroscanner](https://github.com/aquasecurity/microscanner)
 * [Dagda](https://github.com/eliasgranderubio/dagda/)
 ### Проверка Docker / Kubernetes на соответствие
+#### Бесплатные / Open-source
 * [Docker bench](https://github.com/docker/docker-bench-security)
 * [Dockle](https://github.com/goodwithtech/dockle)
 * [Kubebench](https://github.com/aquasecurity/kube-bench)
 * [Kubernetes Auto Analyzer](https://github.com/nccgroup/kube-auto-analyzer)
 ### Безопасность Kubernetes
+#### Бесплатные / Open-source
 * [Kubehunter](https://github.com/aquasecurity/kube-hunter)
 * [KubiScan](https://github.com/cyberark/KubiScan)
 * [Krane](https://github.com/appvia/krane)
 * [Statboard](https://github.com/aquasecurity/starboard)
 * [Kubeaudit](https://github.com/Shopify/kubeaudit)
 * [Kubesec](https://github.com/controlplaneio/kubesec)
-## Статьи
+### Vulnerability Management
+#### Бесплатные / Open-source
+* [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
+* [Secure code Box](https://github.com/secureCodeBox/secureCodeBox)
+* [Archery](https://archerysec.github.io/archerysec/)
+* [Faraday](https://github.com/infobyte/faraday)
+* [VulnReport](https://github.com/salesforce/vulnreport)
+### Безопасность AWS
+* [My-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+#### Другие подборки
+### Другие общие подборки по DevSecOps инструментам
+* [My Arsenal of Cloud Native (Security) Tools by MARCO LANCINI](https://www.marcolancini.it/2018/blog-arsenal-cloud-native-security-tools/)
+* [Security along the Container-based SDLC](https://holisticsecurity.io/2020/02/10/security-along-the-container-based-sdlc)
 ### Dev
 * [От Threat Modeling до безопасности AWS - 50+ open-source инструментов для выстраивания безопасности DevOps, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/518758/)
 * [DevSecOps: принципы работы и сравнение SCA. Часть первая, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/516660/)
