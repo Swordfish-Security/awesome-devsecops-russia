@@ -95,6 +95,9 @@
 * [Безопасность Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/docker_security)
 * [Обзор утилит безопасности Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/obzor-utilit-bezopasnosti-docker)
 * [Способы и примеры внедрения утилит для проверки безопасности Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/docker-security-scanning-examples)
+* [Контейнеры и безопасность: seccomp, Андрей Емельянов, Selectel](https://habr.com/ru/users/AndreiYemelianov/)
+* [9 лучших практик по обеспечению безопасности в Kubernetes, Андрей Сидоров, Flant](https://habr.com/ru/company/flant/blog/436300/)
+* [Шпаргалки по безопасности: Docker Acribia](https://habr.com/ru/company/acribia/blog/448704/)
 ## Доклады
 ### Dev
 * [Страх и ненависть DevSecOps, Юрий Шабалин, Swordfish Security](https://youtu.be/ROH636e7Rx8), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/strakh-i-nienavist-devsecops)
