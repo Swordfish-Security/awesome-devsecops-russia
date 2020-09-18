@@ -84,6 +84,9 @@
 ### Другие общие подборки по DevSecOps инструментам
 * [My Arsenal of Cloud Native (Security) Tools by MARCO LANCINI](https://www.marcolancini.it/2018/blog-arsenal-cloud-native-security-tools/)
 * [Security along the Container-based SDLC](https://holisticsecurity.io/2020/02/10/security-along-the-container-based-sdlc)
+* [DevSecOps / Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops)
+* [TaptuIT / Awesome DevSecOps](https://github.com/TaptuIT/awesome-devsecops)
+* [Devops-ru / Awesome DevSecOps RU](https://github.com/devops-ru/awesome-devsecops_ru)
 ### Dev
 * [От Threat Modeling до безопасности AWS - 50+ open-source инструментов для выстраивания безопасности DevOps, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/518758/)
 * [DevSecOps: принципы работы и сравнение SCA. Часть первая, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/516660/)
