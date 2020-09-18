@@ -106,6 +106,11 @@
 
 ### Безопасность AWS
 #### Другие подборки
+* [Chef InSpec](https://github.com/inspec/inspec)
+* [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
+
+### Compliance-as-code
+#### Другие подборки
 * [My-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 
 ### Другие общие подборки по DevSecOps инструментам
@@ -136,4 +141,6 @@
 * [Управление секретами при помощи Hashicorp Vault в Авито, Сергей Носков, Авито, DevOpsConf Russia 2018](https://youtu.be/oDdDPU6moTs)
 * [“Проникновение в Docker с примерами”, Дмитрий Столяров, Flant](https://youtu.be/hdVNKmru3LM)
 * ["Безопасность в Kubernetes",Дмитрий Лазаренко, Mail.Ru Cloud Solutions](https://youtu.be/62XWgBIYnJ8)
+
 ## Курсы
+
