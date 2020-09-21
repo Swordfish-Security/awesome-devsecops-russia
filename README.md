@@ -142,6 +142,7 @@
 * [Управление секретами при помощи Hashicorp Vault в Авито, Сергей Носков, Авито, DevOpsConf Russia 2018](https://youtu.be/oDdDPU6moTs)
 * [“Проникновение в Docker с примерами”, Дмитрий Столяров, Flant](https://youtu.be/hdVNKmru3LM)
 * ["Безопасность в Kubernetes",Дмитрий Лазаренко, Mail.Ru Cloud Solutions](https://youtu.be/62XWgBIYnJ8)
+* [Хайлоад и безопасность в мире DevOps: совместимы ли?, Юрий Колесов, security-gu.ru](https://youtu.be/JAQDnTDdugo)
 
 ## Курсы
 
