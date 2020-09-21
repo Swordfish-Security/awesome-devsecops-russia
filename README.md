@@ -78,6 +78,7 @@
 * [Statboard](https://github.com/aquasecurity/starboard)
 * [Kubeaudit](https://github.com/Shopify/kubeaudit)
 * [Kubesec](https://github.com/controlplaneio/kubesec)
+* [audit2rbac](https://github.com/liggitt/audit2rbac)
 
 ### Container Runtime
 #### Бесплатные / Open-source
