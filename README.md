@@ -169,6 +169,7 @@
 * [Контейнеры и безопасность: seccomp, Андрей Емельянов, Selectel](https://habr.com/ru/users/AndreiYemelianov/)
 * [9 лучших практик по обеспечению безопасности в Kubernetes, Андрей Сидоров, Flant](https://habr.com/ru/company/flant/blog/436300/)
 * [Шпаргалки по безопасности: Docker Acribia](https://habr.com/ru/company/acribia/blog/448704/)
+* [Контейнеры для приложений: риски безопасности и ключевые решения по защите, Денис Якимов, КРОК](https://www.anti-malware.ru/Market_Analysis/Application-containers-security-risks-and-key-security-solutions)
 
 ## Доклады
 ### Dev
