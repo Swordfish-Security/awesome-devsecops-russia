@@ -195,5 +195,15 @@
 * ["У вас есть кластер Kubernetes, но нет майнера на подах? Тогда мы идем к вам!", Антон Булавин, Semrush](https://youtu.be/kth2QVI2PmI)
 * [SecOps. Защита кластера. Юрий Семенюков, Анастасия Дитенкова, Виктор Пучков, «Инфосистемы Джет»](https://youtu.be/caaMo9alIgA)
 
+## Каналы
+* [DevSecOps Wine](https://t.me/sec_devops)
+* [Технологический Болт Генона](https://t.me/tech_b0lt_Genona)
+* [k8s (in)security](https://t.me/k8security)
+* [DevSecOps Talks](https://t.me/devsecops_weekly)
+
+## Чаты
+* [DevSecOps - русскоговорящее сообщество](https://t.me/devsecops_ru)
+* [DevSecOps Wine Chat](https://t.me/sec_devops_chat)
+
 ## Курсы
 
