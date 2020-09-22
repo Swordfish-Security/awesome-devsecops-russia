@@ -162,6 +162,7 @@
 * [DevOps vs DevSecOps: как это выглядело в одном банке, Техносерв](https://habr.com/ru/company/technoserv/blog/503720/)
 * [Строим безопасную разработку в ритейлере. Опыт одного большого проекта, Иван Старосельский, Solar Security](https://habr.com/ru/company/solarsecurity/blog/519428/)
 * [DevSecOps: организация фаззинга исходного кода, Дмитрий Евдокимов, Никита Кныжов,Павел Князев, Digital Security](https://habr.com/ru/company/dsec/blog/517596/)
+* [Безопасность npm пакетов, Слава Фомин, ДомКлик](https://habr.com/ru/company/domclick/blog/515848/),[2](https://habr.com/ru/company/domclick/blog/516792/),[3](https://habr.com/ru/company/domclick/blog/518502/)
 ### Ops
 * [Проблемы безопасности Docker, Перевод от Игоря Олемского, Southbridge](https://habr.com/ru/company/southbridge/blog/339126/)
 * [Безопасность Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/docker_security)
