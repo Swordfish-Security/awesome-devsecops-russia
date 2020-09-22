@@ -143,6 +143,7 @@
 * [“Проникновение в Docker с примерами”, Дмитрий Столяров, Flant](https://youtu.be/hdVNKmru3LM)
 * ["Безопасность в Kubernetes",Дмитрий Лазаренко, Mail.Ru Cloud Solutions](https://youtu.be/62XWgBIYnJ8)
 * [Хайлоад и безопасность в мире DevOps: совместимы ли?, Юрий Колесов, security-gu.ru](https://youtu.be/JAQDnTDdugo)
+* ["У вас есть кластер Kubernetes, но нет майнера на подах? Тогда мы идем к вам!", Антон Булавин, Semrush](https://youtu.be/kth2QVI2PmI)
 
 ## Курсы
 
