@@ -197,6 +197,9 @@
 * [DevOps-Secонос, Анатолий Карпенко](https://youtu.be/u4HNIa-dWKk)
 * [SAST, борьба с потенциальными уязвимостями, Андрей Карпов, PVS-Studio](https://youtu.be/HYTizYEXmvs)
 * [Внедрение SAST: теория vs практика, Ярослав Александров, Ростелеком-Solar](https://youtu.be/gN4SCUD3smE)
+* [DevSecOps. Чего нам не хватает. Сергей Белов, Acronis](https://play.sonatype.com/watch/mDGzwBfMxsjX8iz7VsaFo5)
+* [Мы начинаем DevSecOps, Юрий Шабалин, Swordfish Security](https://play.sonatype.com/watch/mDGzwBfMxsjX8iz7VsaFo5)
+* [DevSecOps: tips and tricks, Юрий Шабалин, Swordfish Security](https://youtu.be/l8jiV0DylRU)
 ### Ops
 * [Заделываем дыры в кластере Kubernetes",Павел Селиванов,Southbridge](https://www.youtube.com/watch?v=Ik7VqbgpRiQ)
 * ["Обеспечение безопасности микросервисной архитектуры в Kubernetes", Олег Маслеников, ЦИАН](https://youtu.be/aKUhXc1t-3o)
@@ -210,6 +213,12 @@
 * [Облачный пентест: Методики тестирования Amazon AWS, Вадим Шелест, Digital Security](https://youtu.be/1LjeBUOd9_Y)
 * [Использование seccomp для защиты облачной инфраструктуры, Антон Жаболенко, Яндекс.Облако](https://youtu.be/n7ZVJarg4s8)
 * [Мониторинг безопасности сайтов, Григорий Земсков, Ревизиум](https://youtu.be/NbN_uOxRHOo)
+
+## Подкасты
+* [Про DevSecOps с Барухом Садогурским, Барухом Садогурский, JFrog](https://soundcloud.com/qaguild/s3e07)
+* [Мобильный SSDLC, Юрий Шабалин, Swordfish Security](https://youtu.be/EGB8mstJlyA)
+* [SDCast #96, Юрий Шабалин, Swordfish Security](https://sdcast.ksdaemon.ru/2019/01/sdcast-96/)
+
 
 ## Каналы
 * [DevSecOps Wine](https://t.me/sec_devops)
