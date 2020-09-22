@@ -200,6 +200,8 @@
 * [DevSecOps. Чего нам не хватает. Сергей Белов, Acronis](https://play.sonatype.com/watch/mDGzwBfMxsjX8iz7VsaFo5)
 * [Мы начинаем DevSecOps, Юрий Шабалин, Swordfish Security](https://play.sonatype.com/watch/mDGzwBfMxsjX8iz7VsaFo5)
 * [DevSecOps: tips and tricks, Юрий Шабалин, Swordfish Security](https://youtu.be/l8jiV0DylRU)
+* [SAST и Application Security: как бороться с уязвимостями в коде, Сергей Хренов, PVS-Studio](https://youtu.be/XnHVQBgOBM8)
+* [Как построить безопасность SDLC без SDLC, Иван Афанасьев, BI.Zone](https://youtu.be/Lrcgb9pm6ck)
 ### Ops
 * [Заделываем дыры в кластере Kubernetes",Павел Селиванов,Southbridge](https://www.youtube.com/watch?v=Ik7VqbgpRiQ)
 * ["Обеспечение безопасности микросервисной архитектуры в Kubernetes", Олег Маслеников, ЦИАН](https://youtu.be/aKUhXc1t-3o)
