@@ -185,7 +185,7 @@
 * [DevSecOps или как встроить проверки информационной безопасности в микросервисы, Антон Башарин, Swrodfish Security](https://youtu.be/0Gn8ONZnfU8)
 * [DevSec. Встраивание ИБ в конвейер разработки,Александр Садыков,Станислав Косарев,Антон Гаврилов, «Инфосистемы Джет»](https://youtu.be/jlOL1NkdH_U)
 * [DevSecOps. Общее погружение, Антон Гаврилов,Александр Краснов, «Инфосистемы Джет»](https://youtu.be/BrglJmPkvNg)
-* [DevOps-Secонос, Анатолий Карпенко](https://t.me/tech_b0lt_Genona/1231)
+* [DevOps-Secонос, Анатолий Карпенко](https://youtu.be/u4HNIa-dWKk)
 ### Ops
 * [Заделываем дыры в кластере Kubernetes",Павел Селиванов,Southbridge](https://www.youtube.com/watch?v=Ik7VqbgpRiQ)
 * ["Обеспечение безопасности микросервисной архитектуры в Kubernetes", Олег Маслеников, ЦИАН](https://youtu.be/aKUhXc1t-3o)
