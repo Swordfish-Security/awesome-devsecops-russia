@@ -170,7 +170,7 @@
 ### Dev
 * [Страх и ненависть DevSecOps, Юрий Шабалин, Swordfish Security](https://youtu.be/ROH636e7Rx8), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/strakh-i-nienavist-devsecops)
 * [Security Compliance & DevOps, Степан Носов, IPONWEB](https://youtu.be/BtFeWnR1xXE), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/security-compliance-and-devops)
-* [AppSec как код, Антон Башарин, Swordfish Security](https://youtu.be/wfHJyqhTW1o)
+* [AppSec как код, Антон Башарин и Юрий Шабалин, Swordfish Security](https://youtu.be/wfHJyqhTW1o)
 * [DevSecOps или как встроить проверки информационной безопасности в микросервисы, Антон Башарин, Swrodfish Security](https://www.youtube.com/watch?v=0Gn8ONZnfU8&t=1141s)
 ### Ops
 * [Управление секретами при помощи Hashicorp Vault в Авито, Сергей Носков, Авито, DevOpsConf Russia 2018](https://youtu.be/oDdDPU6moTs)
