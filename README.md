@@ -161,6 +161,7 @@
 * [Страх и ненависть DevSecOps, доклад Юрия Шабалин, перевод в текст Александра Титова](https://habr.com/ru/company/oleg-bunin/blog/448488/)
 * [DevOps vs DevSecOps: как это выглядело в одном банке, Техносерв](https://habr.com/ru/company/technoserv/blog/503720/)
 * [Строим безопасную разработку в ритейлере. Опыт одного большого проекта, Иван Старосельский, Solar Security](https://habr.com/ru/company/solarsecurity/blog/519428/)
+* [DevSecOps: организация фаззинга исходного кода, Дмитрий Евдокимов, Никита Кныжов,Павел Князев, Digital Security](https://habr.com/ru/company/dsec/blog/517596/)
 ### Ops
 * [Проблемы безопасности Docker, Перевод от Игоря Олемского, Southbridge](https://habr.com/ru/company/southbridge/blog/339126/)
 * [Безопасность Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/docker_security)
