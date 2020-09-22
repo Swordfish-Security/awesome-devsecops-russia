@@ -13,6 +13,7 @@
 * [Theagile](https://github.com/Threagile/threagile)
 #### Коммерческие / Enterprise 
 * [Irius Risks](https://iriusrisk.com/)
+* [ThreatModeler](https://threatmodeler.com/)
 #### Другие подборки
 * [Awesome threat modeling](https://github.com/hysnsec/awesome-threat-modelling)
 
@@ -23,6 +24,13 @@
 * [Salus](https://github.com/coinbase/salus)
 * [LGTM](https://semmle.com/lgtm)
 * [Semgrep](https://semgrep.dev/editor%20)
+#### Коммерческие / Enterprise 
+* [Checkmarx](https://www.checkmarx.com/)
+* [FortifySCA](https://www.microfocus.com/en-us/solutions/application-security)
+* [RIPS](https://www.ripstech.com/)
+* [Solar AppScreener](https://solarappscreener.com/)
+* [PT AI](https://www.ptsecurity.com/ww-en/products/ai/)
+* [Veracode Static Analysis](https://www.veracode.com/products/binary-static-analysis-sast)
 #### Другие подборки
 * [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 * [Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis)
@@ -33,6 +41,11 @@
 * [Arachni](https://github.com/Arachni/arachni)
 * [OWASP ZAP](https://github.com/zaproxy/zaproxy)
 * [w3af](https://github.com/andresriancho/w3af)
+#### Коммерческие / Enterprise 
+* [NetSparker](https://www.netsparker.com/)
+* [WebInspect](https://www.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview)
+* [PT AI](https://www.ptsecurity.com/ww-en/products/ai/)
+* [Veracode Dynamic Analysis](https://www.veracode.com/products/dynamic-analysis-dast)
 #### Другие подборки
 * [Awesome DAST](https://github.com/analysis-tools-dev/dynamic-analysis/)
 
@@ -47,6 +60,12 @@
 * [ClearlyDefined](https://clearlydefined.io/?sortDesc=true&sort=releaseDate)
 * [Renovate](https://renovate.whitesourcesoftware.com/)
 * [Dependabot](https://dependabot.com/)
+#### Коммерческие / Enterprise 
+* [Sonatype Nexus IQ](https://www.sonatype.com/nexus/iqserver)
+* [Veracode SCA](https://www.veracode.com/products/software-composition-analysis)
+* [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
+* [WhiteSource for Developers](https://www.whitesourcesoftware.com/whitesource-for-developers/)
+* [JFrog XRay](https://jfrog.com/xray/)
 #### Другие подборки
 * [OWASP Composition Analysis](https://owasp.org/www-community/Component_Analysis)
 
