@@ -171,6 +171,10 @@
 * [9 лучших практик по обеспечению безопасности в Kubernetes, Андрей Сидоров, Flant](https://habr.com/ru/company/flant/blog/436300/)
 * [Шпаргалки по безопасности: Docker Acribia](https://habr.com/ru/company/acribia/blog/448704/)
 * [Контейнеры для приложений: риски безопасности и ключевые решения по защите, Денис Якимов, КРОК](https://www.anti-malware.ru/Market_Analysis/Application-containers-security-risks-and-key-security-solutions)
+* [Азбука безопасности в Kubernetes: аутентификация, авторизация, аудит, Олег Вознесенский, Flant](https://habr.com/ru/company/flant/blog/468679/)
+* [33+ инструмента для безопасности Kubernetes, перевод статьи Mateo Burillo, Flant](https://habr.com/ru/company/flant/blog/465141/)
+* [11 способов (не) стать жертвой взлома в Kubernetes, перевод статьи Andrew Martin, Flant](https://habr.com/ru/company/flant/blog/417905/)
+* [Безопасность Helm, доклад Александра Хаерова, Chainstack](https://habr.com/ru/company/oleg-bunin/blog/462665/),[доклад](https://youtu.be/_8zNTJ1_R5I)
 
 ## Доклады
 ### Dev
