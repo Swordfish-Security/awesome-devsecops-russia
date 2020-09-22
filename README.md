@@ -168,6 +168,9 @@
 * [«Hello, Checkmarx!». Как написать запрос для Checkmarx SAST и найти крутые уязвимости, Maxim Tyukov, DINS](https://habr.com/ru/post/483716/)
 * [Ищем уязвимости в коде: теория, практика и перспективы SAST, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/305000/)
 * [Статическое тестирование безопасности опенсорсными инструментами, Александра Сватикова, Одноклассники](https://habr.com/ru/company/odnoklassniki/blog/486722/),[доклад](https://youtu.be/E87YkXhdxAA)
+* [Как сэкономить время и силы на внедрении стандартов безопасной разработки с помощью OWASP SAMM, OZON](https://habr.com/ru/company/ozontech/blog/498272/)
+* [Об анализе исходного кода и автоматической генерации эксплоитов, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/224547/)
+* [Как внедрить Secure Development Lifecycle и не поседеть. Рассказ Яндекса на ZeroNights 2017, Яндекс](https://habr.com/ru/company/yandex/blog/346426/)
 ### Ops
 * [Проблемы безопасности Docker, Перевод от Игоря Олемского, Southbridge](https://habr.com/ru/company/southbridge/blog/339126/)
 * [Безопасность Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/docker_security)
