@@ -198,6 +198,7 @@
 * [SecOps. Защита кластера. Юрий Семенюков, Анастасия Дитенкова, Виктор Пучков, «Инфосистемы Джет»](https://youtu.be/caaMo9alIgA)
 * [Облачный пентест: Методики тестирования Amazon AWS, Вадим Шелест, Digital Security](https://youtu.be/1LjeBUOd9_Y)
 * [Использование seccomp для защиты облачной инфраструктуры, Антон Жаболенко, Яндекс.Облако](https://youtu.be/n7ZVJarg4s8)
+* [Мониторинг безопасности сайтов, Григорий Земсков, Ревизиум](https://youtu.be/NbN_uOxRHOo)
 
 ## Каналы
 * [DevSecOps Wine](https://t.me/sec_devops)
