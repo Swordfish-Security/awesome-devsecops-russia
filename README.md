@@ -171,13 +171,19 @@
 * [Страх и ненависть DevSecOps, Юрий Шабалин, Swordfish Security](https://youtu.be/ROH636e7Rx8), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/strakh-i-nienavist-devsecops)
 * [Security Compliance & DevOps, Степан Носов, IPONWEB](https://youtu.be/BtFeWnR1xXE), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/security-compliance-and-devops)
 * [AppSec как код, Антон Башарин и Юрий Шабалин, Swordfish Security](https://youtu.be/wfHJyqhTW1o)
-* [DevSecOps или как встроить проверки информационной безопасности в микросервисы, Антон Башарин, Swrodfish Security](https://www.youtube.com/watch?v=0Gn8ONZnfU8&t=1141s)
+* [DevSecOps или как встроить проверки информационной безопасности в микросервисы, Антон Башарин, Swrodfish Security](https://youtu.be/0Gn8ONZnfU8)
+* [DevSec. Встраивание ИБ в конвейер разработки,Александр Садыков,Станислав Косарев,Антон Гаврилов, «Инфосистемы Джет»](https://youtu.be/jlOL1NkdH_U)
+* [DevSecOps. Общее погружение, Антон Гаврилов,Александр Краснов, «Инфосистемы Джет»](https://youtu.be/BrglJmPkvNg)
 ### Ops
-* [Управление секретами при помощи Hashicorp Vault в Авито, Сергей Носков, Авито, DevOpsConf Russia 2018](https://youtu.be/oDdDPU6moTs)
+* [Заделываем дыры в кластере Kubernetes",Павел Селиванов,Southbridge](https://www.youtube.com/watch?v=Ik7VqbgpRiQ)
+* ["Обеспечение безопасности микросервисной архитектуры в Kubernetes", Олег Маслеников, ЦИАН](https://youtu.be/aKUhXc1t-3o)
+* [Безопасность в Kubernetes. Проект Kaniko. Лаборатория ПИТ](https://youtu.be/14ZI3fcc59Q)
+* [Управление секретами при помощи Hashicorp Vault в Авито, Сергей Носков, Авито](https://youtu.be/oDdDPU6moTs)
 * [“Проникновение в Docker с примерами”, Дмитрий Столяров, Flant](https://youtu.be/hdVNKmru3LM)
 * ["Безопасность в Kubernetes",Дмитрий Лазаренко, Mail.Ru Cloud Solutions](https://youtu.be/62XWgBIYnJ8)
 * [Хайлоад и безопасность в мире DevOps: совместимы ли?, Юрий Колесов, security-gu.ru](https://youtu.be/JAQDnTDdugo)
 * ["У вас есть кластер Kubernetes, но нет майнера на подах? Тогда мы идем к вам!", Антон Булавин, Semrush](https://youtu.be/kth2QVI2PmI)
+* [SecOps. Защита кластера. Юрий Семенюков, Анастасия Дитенкова, Виктор Пучков, «Инфосистемы Джет»](https://youtu.be/caaMo9alIgA)
 
 ## Курсы
 
