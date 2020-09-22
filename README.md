@@ -46,12 +46,13 @@
 * [WebInspect](https://www.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview)
 * [PT AI](https://www.ptsecurity.com/ww-en/products/ai/)
 * [Veracode Dynamic Analysis](https://www.veracode.com/products/dynamic-analysis-dast)
+* [Tenable Web App Scanning](https://www.tenable.com/products/tenable-io/web-application-scanning)
 #### Другие подборки
 * [Awesome DAST](https://github.com/analysis-tools-dev/dynamic-analysis/)
 
 ### Поиск секретов
 
-### Анализаторы сторонних компонентов (SCA)
+### Анализаторы сторонних компонентов (SCA) 
 Анализатор сторонних компонентов - инструмент, который осуществляет поиск уязвимостей в сторонних open-source компонентах, подключенных к проекту. 
 #### Бесплатные / Open-source
 * [Dependency Check](https://github.com/jeremylong/DependencyCheck)
@@ -138,6 +139,8 @@
 #### Бесплатные / Open-source
 * [Chef InSpec](https://github.com/inspec/inspec)
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
+### Коммерческие комплексные решения Cloud Native Security Platform
+* [Aqua CSPM](https://www.aquasec.com/products/cspm/)
 #### Другие подборки
 * [My-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 
