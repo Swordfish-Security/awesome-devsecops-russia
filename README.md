@@ -165,6 +165,9 @@
 * [Безопасность npm пакетов, Слава Фомин, ДомКлик](https://habr.com/ru/company/domclick/blog/515848/),[2](https://habr.com/ru/company/domclick/blog/516792/),[3](https://habr.com/ru/company/domclick/blog/518502/)
 * [Используем Zap Baseline Scan для непрерывного сканирования сайта на уязвимости, Александр Тютин](https://habr.com/ru/post/493778/)
 * [Использование сканера уязвимостей в используемых библиотеках Dependency-Check в GitlabCI, Пацев Антон](https://habr.com/ru/post/483716/)
+* [«Hello, Checkmarx!». Как написать запрос для Checkmarx SAST и найти крутые уязвимости, Maxim Tyukov, DINS](https://habr.com/ru/post/483716/)
+* [Ищем уязвимости в коде: теория, практика и перспективы SAST, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/305000/)
+* [Статическое тестирование безопасности опенсорсными инструментами, Александра Сватикова, Одноклассники](https://habr.com/ru/company/odnoklassniki/blog/486722/),[доклад](https://youtu.be/E87YkXhdxAA)
 ### Ops
 * [Проблемы безопасности Docker, Перевод от Игоря Олемского, Southbridge](https://habr.com/ru/company/southbridge/blog/339126/)
 * [Безопасность Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/docker_security)
@@ -189,6 +192,8 @@
 * [DevSec. Встраивание ИБ в конвейер разработки,Александр Садыков,Станислав Косарев,Антон Гаврилов, «Инфосистемы Джет»](https://youtu.be/jlOL1NkdH_U)
 * [DevSecOps. Общее погружение, Антон Гаврилов,Александр Краснов, «Инфосистемы Джет»](https://youtu.be/BrglJmPkvNg)
 * [DevOps-Secонос, Анатолий Карпенко](https://youtu.be/u4HNIa-dWKk)
+* [SAST, борьба с потенциальными уязвимостями, Андрей Карпов, PVS-Studio](https://youtu.be/HYTizYEXmvs)
+* [Внедрение SAST: теория vs практика, Ярослав Александров, Ростелеком-Solar](https://youtu.be/gN4SCUD3smE)
 ### Ops
 * [Заделываем дыры в кластере Kubernetes",Павел Селиванов,Southbridge](https://www.youtube.com/watch?v=Ik7VqbgpRiQ)
 * ["Обеспечение безопасности микросервисной архитектуры в Kubernetes", Олег Маслеников, ЦИАН](https://youtu.be/aKUhXc1t-3o)
