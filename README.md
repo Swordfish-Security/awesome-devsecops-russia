@@ -81,6 +81,11 @@
 * [Anchore](https://github.com/anchore/anchore-cli)
 * [AquaMicroscanner](https://github.com/aquasecurity/microscanner)
 * [Dagda](https://github.com/eliasgranderubio/dagda/)
+#### Коммерческие / Enterprise 
+* [Snyk Container](https://snyk.io/product/container-vulnerability-management/)
+
+#### Другие подборки
+* [29 Docker security tools compared](https://sysdig.com/blog/20-docker-security-tools/)
 
 ### Проверка Docker / Kubernetes на соответствие
 #### Бесплатные / Open-source
@@ -104,6 +109,11 @@
 * [Sysdig Falco](https://github.com/falcosecurity/falco)
 * [Deepfence Runtime Threat Mapper](https://github.com/deepfence/ThreatMapper)
 
+### Коммерческие комплексные решения Cloud Native Security Platform
+* [Aqua CSP](https://www.aquasec.com/aqua-cloud-native-security-platform/)
+* [NeuVector](https://neuvector.com/)
+* [Sysdig](https://sysdig.com/secure-devops-platform/)
+
 ### Runtime Security 
 #### Бесплатные / Open-source
 * [RASP](https://github.com/baidu/openrasp)
@@ -125,13 +135,13 @@
 * [VulnReport](https://github.com/salesforce/vulnreport)
 
 ### Безопасность AWS
-#### Другие подборки
+#### Бесплатные / Open-source
 * [Chef InSpec](https://github.com/inspec/inspec)
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
-
-### Compliance-as-code
 #### Другие подборки
 * [My-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+
+### Compliance-as-code
 
 ### Другие общие подборки по DevSecOps инструментам
 * [My Arsenal of Cloud Native (Security) Tools by MARCO LANCINI](https://www.marcolancini.it/2018/blog-arsenal-cloud-native-security-tools/)
