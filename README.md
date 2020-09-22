@@ -194,6 +194,8 @@
 * [Хайлоад и безопасность в мире DevOps: совместимы ли?, Юрий Колесов, security-gu.ru](https://youtu.be/JAQDnTDdugo)
 * ["У вас есть кластер Kubernetes, но нет майнера на подах? Тогда мы идем к вам!", Антон Булавин, Semrush](https://youtu.be/kth2QVI2PmI)
 * [SecOps. Защита кластера. Юрий Семенюков, Анастасия Дитенкова, Виктор Пучков, «Инфосистемы Джет»](https://youtu.be/caaMo9alIgA)
+* [Облачный пентест: Методики тестирования Amazon AWS, Вадим Шелест, Digital Security](https://youtu.be/1LjeBUOd9_Y)
+* [Использование seccomp для защиты облачной инфраструктуры, Антон Жаболенко, Яндекс.Облако](https://youtu.be/n7ZVJarg4s8)
 
 ## Каналы
 * [DevSecOps Wine](https://t.me/sec_devops)
