@@ -176,19 +176,19 @@
 
 ### IAC Security
 Практика тестирования декларативного описания инфраструктуры через конфигурационные файлы на соответствие требования безопасности.
-* [Cfn Nag] (https://github.com/stelligent/cfn_nag)
-* [Checkov] (https://github.com/bridgecrewio/checkov)
-* [Terrascan] (https://github.com/cesar-rodriguez/terrascan)
-* [Tfsec] (https://github.com/liamg/tfsec)
+* [Cfn Nag](https://github.com/stelligent/cfn_nag)
+* [Checkov](https://github.com/bridgecrewio/checkov)
+* [Terrascan](https://github.com/cesar-rodriguez/terrascan)
+* [Tfsec](https://github.com/liamg/tfsec)
 #### Kubernetes YAML validating
-* [Kubeval] (https://github.com/instrumenta/kubeval)
-* [Kube-score] (https://github.com/zegl/kube-score)
-* [Config-lint] (https://github.com/stelligent/config-lint)
-* [Copper] (https://github.com/cloud66-oss/copper)
-* [Conftest] (https://github.com/open-policy-agent/conftest)
-* [Polaris] (https://github.com/FairwindsOps/polaris#cli)
+* [Kubeval](https://github.com/instrumenta/kubeval)
+* [Kube-score](https://github.com/zegl/kube-score)
+* [Config-lint](https://github.com/stelligent/config-lint)
+* [Copper](https://github.com/cloud66-oss/copper)
+* [Conftest](https://github.com/open-policy-agent/conftest)
+* [Polaris](https://github.com/FairwindsOps/polaris#cli)
 #### Сравнение
-* [Сравнение инструментов] (https://learnk8s.io/validating-kubernetes-yaml)
+* [Сравнение инструментов](https://learnk8s.io/validating-kubernetes-yaml)
 
 ### Безопасность AWS
 Инструменты для проверки безопасности AWS.
