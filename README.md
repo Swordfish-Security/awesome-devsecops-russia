@@ -146,6 +146,10 @@
 * [Archery](https://archerysec.github.io/archerysec/)
 * [Faraday](https://github.com/infobyte/faraday)
 * [VulnReport](https://github.com/salesforce/vulnreport)
+#### Коммерческие / Enterprise 
+* [AppSec.Hub](https://hub.appsec.global/)
+* [ThreatFix](https://threadfix.it/)
+* [Kenna Security](https://www.kennasecurity.com/)
 
 ### Безопасность AWS
 #### Бесплатные / Open-source
