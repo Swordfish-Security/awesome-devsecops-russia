@@ -92,7 +92,7 @@
 * [Dagda](https://github.com/eliasgranderubio/dagda/)
 #### Коммерческие / Enterprise 
 * [Snyk Container](https://snyk.io/product/container-vulnerability-management/)
-
+* [TrendMicro SmartCheck](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/smart-check-image-scanning.html)
 #### Другие подборки
 * [29 Docker security tools compared](https://sysdig.com/blog/20-docker-security-tools/)
 
@@ -122,6 +122,9 @@
 * [Aqua CSP](https://www.aquasec.com/aqua-cloud-native-security-platform/)
 * [NeuVector](https://neuvector.com/)
 * [Sysdig](https://sysdig.com/secure-devops-platform/)
+* [Tenable.io Container Security](https://www.tenable.com/products/tenable-io/container-security)
+* [McAfee Container Security](https://www.mcafee.com/enterprise/en-us/products/mvision-cloud/container-security.html)
+* [TrendMicro CloudOne](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-container-image-security.html)
 
 ### Runtime Security 
 #### Бесплатные / Open-source
@@ -155,7 +158,7 @@
 #### Бесплатные / Open-source
 * [Chef InSpec](https://github.com/inspec/inspec)
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
-### Коммерческие комплексные решения Cloud Native Security Platform
+#### Коммерческие / Enterprise 
 * [Aqua CSPM](https://www.aquasec.com/products/cspm/)
 #### Другие подборки
 * [My-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
