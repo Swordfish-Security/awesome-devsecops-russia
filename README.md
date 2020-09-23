@@ -19,7 +19,7 @@
 
 ### Статические анализаторы приложений (SAST)
 Статический анализатор кода - инструмент, сообщающий об уязвимости приложения, ориентируясь на исходные коды приложения.
-#### Бесплатные / Open-source
+#### Бесплатные / Open-source универсальные средства
 * [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan)
 * [Salus](https://github.com/coinbase/salus)
 * [LGTM](https://semmle.com/lgtm)
@@ -31,7 +31,7 @@
 * [Solar AppScreener](https://solarappscreener.com/)
 * [PT AI](https://www.ptsecurity.com/ww-en/products/ai/)
 * [Veracode Static Analysis](https://www.veracode.com/products/binary-static-analysis-sast)
-#### Другие подборки
+#### Другие подборки с описанием SAST под конкретный язык
 * [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 * [Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis)
 
@@ -51,6 +51,14 @@
 * [Awesome DAST](https://github.com/analysis-tools-dev/dynamic-analysis/)
 
 ### Поиск секретов
+#### Бесплатные / Open-source
+* [git-secrets](https://github.com/awslabs/git-secrets)
+* [Gitrob](https://github.com/michenriksen/gitrob)
+* [Gitleaks](https://github.com/zricethezav/gitleaks)
+* [TruffleHog](https://github.com/dxa4481/truffleHog)
+* [Talisman](https://github.com/thoughtworks/talisman)
+#### Коммерческие / Enterprise 
+* [GitGuardian](https://www.gitguardian.com/community)
 
 ### Анализаторы сторонних компонентов (SCA) 
 Анализатор сторонних компонентов - инструмент, который осуществляет поиск уязвимостей в сторонних open-source компонентах, подключенных к проекту. 
@@ -122,6 +130,10 @@
 ### IAST
 #### Бесплатные / Open-source
 * [Contrast](https://www.contrastsecurity.com/contrast-community-edition)
+#### Коммерческие / Enterprise 
+* [Checkmarx IAST](https://www.checkmarx.com/products/interactive-application-security-testing)
+* [Veracode IAST](https://www.veracode.com/products/interactive-analysis-iast)
+* [Synopsys IAST](https://www.synopsys.com/software-integrity/security-testing/interactive-application-security-testing.html)
 
 ### Fuzzing
 #### Другие подборки
