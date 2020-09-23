@@ -294,6 +294,3 @@
 ## Чаты
 * [DevSecOps - русскоговорящее сообщество](https://t.me/devsecops_ru)
 * [DevSecOps Wine Chat](https://t.me/sec_devops_chat)
-
-## Курсы
-
