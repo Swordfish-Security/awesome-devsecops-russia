@@ -51,12 +51,14 @@
 * [Awesome DAST](https://github.com/analysis-tools-dev/dynamic-analysis/)
 
 ### Поиск секретов
+Инструмент для поиска чувствительной информации.
 #### Бесплатные / Open-source
 * [git-secrets](https://github.com/awslabs/git-secrets)
 * [Gitrob](https://github.com/michenriksen/gitrob)
 * [Gitleaks](https://github.com/zricethezav/gitleaks)
 * [TruffleHog](https://github.com/dxa4481/truffleHog)
 * [Talisman](https://github.com/thoughtworks/talisman)
+* [Slack Watchman](https://github.com/PaperMtn/slack-watchman)
 #### Коммерческие / Enterprise 
 * [GitGuardian](https://www.gitguardian.com/community)
 
@@ -79,11 +81,13 @@
 * [OWASP Composition Analysis](https://owasp.org/www-community/Component_Analysis)
 
 ### Тестирование по принципам Behaviour Driven Development
+Фреймворк, позволяющий описывать проверки по методологии BDD.
 #### Бесплатные / Open-source
 * [BDD-Security](https://github.com/iriusrisk/bdd-security)
 * [Gauntlt](https://github.com/gauntlt/gauntlt)
 
 ### Сканеры Docker образов
+Инструменты, направленные на поиск уязвимостей в образах контейнеров.
 #### Бесплатные / Open-source
 * [Clair](https://github.com/quay/clair)
 * [Trivy](https://github.com/aquasecurity/trivy)
@@ -93,10 +97,12 @@
 #### Коммерческие / Enterprise 
 * [Snyk Container](https://snyk.io/product/container-vulnerability-management/)
 * [TrendMicro SmartCheck](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/smart-check-image-scanning.html)
+* [WhiteSource for containers](https://www.whitesourcesoftware.com/whitesource-for-containers/)
 #### Другие подборки
 * [29 Docker security tools compared](https://sysdig.com/blog/20-docker-security-tools/)
 
 ### Проверка Docker / Kubernetes на соответствие
+Инструмент для проверки хоста/dockerd/сборки на соответствии (CIS/PCI DSS и другие).
 #### Бесплатные / Open-source
 * [Docker bench](https://github.com/docker/docker-bench-security)
 * [Dockle](https://github.com/goodwithtech/dockle)
@@ -104,6 +110,7 @@
 * [Kubernetes Auto Analyzer](https://github.com/nccgroup/kube-auto-analyzer)
 
 ### Безопасность Kubernetes
+Инструмент для проверки безопасности Kubernetes.
 #### Бесплатные / Open-source
 * [Kubehunter](https://github.com/aquasecurity/kube-hunter)
 * [KubiScan](https://github.com/cyberark/KubiScan)
@@ -114,6 +121,7 @@
 * [audit2rbac](https://github.com/liggitt/audit2rbac)
 
 ### Container Runtime
+Инструмент для отслеживания поведения контейнеров в Runtime.
 #### Бесплатные / Open-source
 * [Sysdig Falco](https://github.com/falcosecurity/falco)
 * [Deepfence Runtime Threat Mapper](https://github.com/deepfence/ThreatMapper)
@@ -129,10 +137,12 @@
 * [TrendMicro CloudOne](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-container-image-security.html)
 
 ### Runtime Security 
+Инструмент для проверки веб-приложений в режиме runtime
 #### Бесплатные / Open-source
 * [RASP](https://github.com/baidu/openrasp)
 
 ### IAST
+Инструмент, совмещающий практики SAST и DAST.
 #### Бесплатные / Open-source
 * [Contrast](https://www.contrastsecurity.com/contrast-community-edition)
 #### Коммерческие / Enterprise 
@@ -141,10 +151,12 @@
 * [Synopsys IAST](https://www.synopsys.com/software-integrity/security-testing/interactive-application-security-testing.html)
 
 ### Fuzzing
+Практика тестирования приложения, при которой на вход программе подаются данные, которые могут привести к неопределенному поведению.
 #### Другие подборки
 * [Awesome Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme)
 
 ### Vulnerability Management
+Инструмент, собирающий и агрегирующий результаты проверки сторонних инструментов.
 #### Бесплатные / Open-source
 * [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
 * [Secure code Box](https://github.com/secureCodeBox/secureCodeBox)
@@ -157,11 +169,13 @@
 * [Kenna Security](https://www.kennasecurity.com/)
 
 ### Compliance-as-code
+Практика представления требований безопасности через декларативное описание в виде кода с целью дальнейшей непрерывной оценки на соответствие.
 #### Бесплатные / Open-source
 * [Chef InSpec](https://github.com/inspec/inspec)
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
 
 ### Безопасность AWS
+Инструменты для проверки безопасности AWS.
 #### Бесплатные / Open-source
 * [AWS-inventor](https://github.com/nccgroup/aws-inventory)
 * [Aws-public-ips](https://github.com/arkadiyt/aws_public_ips)
@@ -172,6 +186,7 @@
 * [My-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 
 ### Безопасность GCP
+Инструменты для проверки безопасности GCP.
 #### Бесплатные / Open-source
 * [G-Scout](https://github.com/nccgroup/G-Scout)
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
