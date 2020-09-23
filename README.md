@@ -1,6 +1,83 @@
 # Awesome DevSecOps на русском языке [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-## Инструменты
 
+## Каналы
+* [DevSecOps Wine](https://t.me/sec_devops)
+* [Технологический Болт Генона](https://t.me/tech_b0lt_Genona)
+* [k8s (in)security](https://t.me/k8security)
+* [DevSecOps Talks](https://t.me/devsecops_weekly)
+
+## Чаты
+* [DevSecOps - русскоговорящее сообщество](https://t.me/devsecops_ru)
+* [DevSecOps Wine Chat](https://t.me/sec_devops_chat)
+
+## Статьи
+### Dev
+* [От Threat Modeling до безопасности AWS - 50+ open-source инструментов для выстраивания безопасности DevOps, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/518758/)
+* [DevSecOps: принципы работы и сравнение SCA. Часть первая, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/516660/)
+* [Практические ответы на нетривиальные вопросы, или Как внедрять DevSecOps в организации со сложным IT-ландшафтом, ВТБ](https://habr.com/ru/company/vtb/blog/479082/)
+* [Страх и ненависть DevSecOps, доклад Юрия Шабалин, перевод в текст Александра Титова](https://habr.com/ru/company/oleg-bunin/blog/448488/)
+* [DevOps vs DevSecOps: как это выглядело в одном банке, Техносерв](https://habr.com/ru/company/technoserv/blog/503720/)
+* [Строим безопасную разработку в ритейлере. Опыт одного большого проекта, Иван Старосельский, Solar Security](https://habr.com/ru/company/solarsecurity/blog/519428/)
+* [DevSecOps: организация фаззинга исходного кода, Дмитрий Евдокимов, Никита Кныжов,Павел Князев, Digital Security](https://habr.com/ru/company/dsec/blog/517596/)
+* [Безопасность npm пакетов, Слава Фомин, ДомКлик](https://habr.com/ru/company/domclick/blog/515848/),[2](https://habr.com/ru/company/domclick/blog/516792/),[3](https://habr.com/ru/company/domclick/blog/518502/)
+* [Используем Zap Baseline Scan для непрерывного сканирования сайта на уязвимости, Александр Тютин](https://habr.com/ru/post/493778/)
+* [Использование сканера уязвимостей в используемых библиотеках Dependency-Check в GitlabCI, Пацев Антон](https://habr.com/ru/post/483716/)
+* [«Hello, Checkmarx!». Как написать запрос для Checkmarx SAST и найти крутые уязвимости, Maxim Tyukov, DINS](https://habr.com/ru/post/483716/)
+* [Ищем уязвимости в коде: теория, практика и перспективы SAST, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/305000/)
+* [Статическое тестирование безопасности опенсорсными инструментами, Александра Сватикова, Одноклассники](https://habr.com/ru/company/odnoklassniki/blog/486722/),[доклад](https://youtu.be/E87YkXhdxAA)
+* [Как сэкономить время и силы на внедрении стандартов безопасной разработки с помощью OWASP SAMM, OZON](https://habr.com/ru/company/ozontech/blog/498272/)
+* [Об анализе исходного кода и автоматической генерации эксплоитов, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/224547/)
+* [Как внедрить Secure Development Lifecycle и не поседеть. Рассказ Яндекса на ZeroNights 2017, Яндекс](https://habr.com/ru/company/yandex/blog/346426/)
+### Ops
+* [Проблемы безопасности Docker, Перевод от Игоря Олемского, Southbridge](https://habr.com/ru/company/southbridge/blog/339126/)
+* [Безопасность Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/docker_security)
+* [Обзор утилит безопасности Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/obzor-utilit-bezopasnosti-docker)
+* [Способы и примеры внедрения утилит для проверки безопасности Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/docker-security-scanning-examples)
+* [Контейнеры и безопасность: seccomp, Андрей Емельянов, Selectel](https://habr.com/ru/users/AndreiYemelianov/)
+* [Seccomp в Kubernetes: 7 вещей, о которых надо знать с самого начала,перевод Paulo Gomes, Flant](https://habr.com/ru/company/flant/blog/481114/)
+* [9 лучших практик по обеспечению безопасности в Kubernetes, Андрей Сидоров, Flant](https://habr.com/ru/company/flant/blog/436300/)
+* [Шпаргалки по безопасности: Docker Acribia](https://habr.com/ru/company/acribia/blog/448704/)
+* [Контейнеры для приложений: риски безопасности и ключевые решения по защите, Денис Якимов, КРОК](https://www.anti-malware.ru/Market_Analysis/Application-containers-security-risks-and-key-security-solutions)
+* [Азбука безопасности в Kubernetes: аутентификация, авторизация, аудит, Олег Вознесенский, Flant](https://habr.com/ru/company/flant/blog/468679/)
+* [33+ инструмента для безопасности Kubernetes, перевод статьи Mateo Burillo, Flant](https://habr.com/ru/company/flant/blog/465141/)
+* [11 способов (не) стать жертвой взлома в Kubernetes, перевод статьи Andrew Martin, Flant](https://habr.com/ru/company/flant/blog/417905/)
+* [Безопасность Helm, доклад Александра Хаерова, Chainstack](https://habr.com/ru/company/oleg-bunin/blog/462665/),[доклад](https://youtu.be/_8zNTJ1_R5I)
+
+## Доклады
+### Dev
+* [Страх и ненависть DevSecOps, Юрий Шабалин, Swordfish Security](https://youtu.be/ROH636e7Rx8), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/strakh-i-nienavist-devsecops)
+* [Security Compliance & DevOps, Степан Носов, IPONWEB](https://youtu.be/BtFeWnR1xXE), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/security-compliance-and-devops)
+* [AppSec как код, Антон Башарин и Юрий Шабалин, Swordfish Security](https://youtu.be/wfHJyqhTW1o)
+* [DevSecOps или как встроить проверки информационной безопасности в микросервисы, Антон Башарин, Swrodfish Security](https://youtu.be/0Gn8ONZnfU8)
+* [DevSec. Встраивание ИБ в конвейер разработки,Александр Садыков,Станислав Косарев,Антон Гаврилов, «Инфосистемы Джет»](https://youtu.be/jlOL1NkdH_U)
+* [DevSecOps. Общее погружение, Антон Гаврилов,Александр Краснов, «Инфосистемы Джет»](https://youtu.be/BrglJmPkvNg)
+* [DevOps-Secонос, Анатолий Карпенко](https://youtu.be/u4HNIa-dWKk)
+* [SAST, борьба с потенциальными уязвимостями, Андрей Карпов, PVS-Studio](https://youtu.be/HYTizYEXmvs)
+* [Внедрение SAST: теория vs практика, Ярослав Александров, Ростелеком-Solar](https://youtu.be/gN4SCUD3smE)
+* [DevSecOps. Чего нам не хватает. Сергей Белов, Acronis](https://play.sonatype.com/watch/mDGzwBfMxsjX8iz7VsaFo5)
+* [Мы начинаем DevSecOps, Юрий Шабалин, Swordfish Security](https://play.sonatype.com/watch/mDGzwBfMxsjX8iz7VsaFo5)
+* [DevSecOps: tips and tricks, Юрий Шабалин, Swordfish Security](https://youtu.be/l8jiV0DylRU)
+* [SAST и Application Security: как бороться с уязвимостями в коде, Сергей Хренов, PVS-Studio](https://youtu.be/XnHVQBgOBM8)
+* [Как построить безопасность SDLC без SDLC, Иван Афанасьев, BI.Zone](https://youtu.be/Lrcgb9pm6ck)
+### Ops
+* [Заделываем дыры в кластере Kubernetes",Павел Селиванов,Southbridge](https://www.youtube.com/watch?v=Ik7VqbgpRiQ)
+* ["Обеспечение безопасности микросервисной архитектуры в Kubernetes", Олег Маслеников, ЦИАН](https://youtu.be/aKUhXc1t-3o)
+* [Безопасность в Kubernetes. Проект Kaniko. Лаборатория ПИТ](https://youtu.be/14ZI3fcc59Q)
+* [Управление секретами при помощи Hashicorp Vault в Авито, Сергей Носков, Авито](https://youtu.be/oDdDPU6moTs)
+* [“Проникновение в Docker с примерами”, Дмитрий Столяров, Flant](https://youtu.be/hdVNKmru3LM)
+* ["Безопасность в Kubernetes",Дмитрий Лазаренко, Mail.Ru Cloud Solutions](https://youtu.be/62XWgBIYnJ8)
+* [Хайлоад и безопасность в мире DevOps: совместимы ли?, Юрий Колесов, security-gu.ru](https://youtu.be/JAQDnTDdugo)
+* ["У вас есть кластер Kubernetes, но нет майнера на подах? Тогда мы идем к вам!", Антон Булавин, Semrush](https://youtu.be/kth2QVI2PmI)
+* [SecOps. Защита кластера. Юрий Семенюков, Анастасия Дитенкова, Виктор Пучков, «Инфосистемы Джет»](https://youtu.be/caaMo9alIgA)
+* [Облачный пентест: Методики тестирования Amazon AWS, Вадим Шелест, Digital Security](https://youtu.be/1LjeBUOd9_Y)
+* [Использование seccomp для защиты облачной инфраструктуры, Антон Жаболенко, Яндекс.Облако](https://youtu.be/n7ZVJarg4s8)
+* [Мониторинг безопасности сайтов, Григорий Земсков, Ревизиум](https://youtu.be/NbN_uOxRHOo)
+
+## Подкасты
+* [Про DevSecOps с Барухом Садогурским, Барухом Садогурский, JFrog](https://soundcloud.com/qaguild/s3e07)
+* [Мобильный SSDLC, Юрий Шабалин, Swordfish Security](https://youtu.be/EGB8mstJlyA)
+* [SDCast #96, Юрий Шабалин, Swordfish Security](https://sdcast.ksdaemon.ru/2019/01/sdcast-96/)
+## Инструменты
 ### Инструменты для моделирования угроз (Threat modeling)
 Моделирование угроз в контексте Secure Development Lifecycle представляет из себя процесс анализа архитектуры ПО на предмет наличия в ней потенциальных уязвимостей и небезопасных технологий. Чтобы сократить расходы на добавление дополнительного функционала с точки зрения безопасности, решением может являться внедрение процесса проверок ИБ еще на этапе проектирования архитектуры. На этом же этапе формируются требования со стороны специалистов по безопасности приложений, которые в дальнейшем пойдут в backlog. 
 #### Бесплатные / Open-source
@@ -215,82 +292,3 @@
 * [DevSecOps / Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops)
 * [TaptuIT / Awesome DevSecOps](https://github.com/TaptuIT/awesome-devsecops)
 * [Devops-ru / Awesome DevSecOps RU](https://github.com/devops-ru/awesome-devsecops_ru)
-
-## Статьи
-### Dev
-* [От Threat Modeling до безопасности AWS - 50+ open-source инструментов для выстраивания безопасности DevOps, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/518758/)
-* [DevSecOps: принципы работы и сравнение SCA. Часть первая, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/516660/)
-* [Практические ответы на нетривиальные вопросы, или Как внедрять DevSecOps в организации со сложным IT-ландшафтом, ВТБ](https://habr.com/ru/company/vtb/blog/479082/)
-* [Страх и ненависть DevSecOps, доклад Юрия Шабалин, перевод в текст Александра Титова](https://habr.com/ru/company/oleg-bunin/blog/448488/)
-* [DevOps vs DevSecOps: как это выглядело в одном банке, Техносерв](https://habr.com/ru/company/technoserv/blog/503720/)
-* [Строим безопасную разработку в ритейлере. Опыт одного большого проекта, Иван Старосельский, Solar Security](https://habr.com/ru/company/solarsecurity/blog/519428/)
-* [DevSecOps: организация фаззинга исходного кода, Дмитрий Евдокимов, Никита Кныжов,Павел Князев, Digital Security](https://habr.com/ru/company/dsec/blog/517596/)
-* [Безопасность npm пакетов, Слава Фомин, ДомКлик](https://habr.com/ru/company/domclick/blog/515848/),[2](https://habr.com/ru/company/domclick/blog/516792/),[3](https://habr.com/ru/company/domclick/blog/518502/)
-* [Используем Zap Baseline Scan для непрерывного сканирования сайта на уязвимости, Александр Тютин](https://habr.com/ru/post/493778/)
-* [Использование сканера уязвимостей в используемых библиотеках Dependency-Check в GitlabCI, Пацев Антон](https://habr.com/ru/post/483716/)
-* [«Hello, Checkmarx!». Как написать запрос для Checkmarx SAST и найти крутые уязвимости, Maxim Tyukov, DINS](https://habr.com/ru/post/483716/)
-* [Ищем уязвимости в коде: теория, практика и перспективы SAST, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/305000/)
-* [Статическое тестирование безопасности опенсорсными инструментами, Александра Сватикова, Одноклассники](https://habr.com/ru/company/odnoklassniki/blog/486722/),[доклад](https://youtu.be/E87YkXhdxAA)
-* [Как сэкономить время и силы на внедрении стандартов безопасной разработки с помощью OWASP SAMM, OZON](https://habr.com/ru/company/ozontech/blog/498272/)
-* [Об анализе исходного кода и автоматической генерации эксплоитов, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/224547/)
-* [Как внедрить Secure Development Lifecycle и не поседеть. Рассказ Яндекса на ZeroNights 2017, Яндекс](https://habr.com/ru/company/yandex/blog/346426/)
-### Ops
-* [Проблемы безопасности Docker, Перевод от Игоря Олемского, Southbridge](https://habr.com/ru/company/southbridge/blog/339126/)
-* [Безопасность Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/docker_security)
-* [Обзор утилит безопасности Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/blog/obzor-utilit-bezopasnosti-docker)
-* [Способы и примеры внедрения утилит для проверки безопасности Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/docker-security-scanning-examples)
-* [Контейнеры и безопасность: seccomp, Андрей Емельянов, Selectel](https://habr.com/ru/users/AndreiYemelianov/)
-* [Seccomp в Kubernetes: 7 вещей, о которых надо знать с самого начала,перевод Paulo Gomes, Flant](https://habr.com/ru/company/flant/blog/481114/)
-* [9 лучших практик по обеспечению безопасности в Kubernetes, Андрей Сидоров, Flant](https://habr.com/ru/company/flant/blog/436300/)
-* [Шпаргалки по безопасности: Docker Acribia](https://habr.com/ru/company/acribia/blog/448704/)
-* [Контейнеры для приложений: риски безопасности и ключевые решения по защите, Денис Якимов, КРОК](https://www.anti-malware.ru/Market_Analysis/Application-containers-security-risks-and-key-security-solutions)
-* [Азбука безопасности в Kubernetes: аутентификация, авторизация, аудит, Олег Вознесенский, Flant](https://habr.com/ru/company/flant/blog/468679/)
-* [33+ инструмента для безопасности Kubernetes, перевод статьи Mateo Burillo, Flant](https://habr.com/ru/company/flant/blog/465141/)
-* [11 способов (не) стать жертвой взлома в Kubernetes, перевод статьи Andrew Martin, Flant](https://habr.com/ru/company/flant/blog/417905/)
-* [Безопасность Helm, доклад Александра Хаерова, Chainstack](https://habr.com/ru/company/oleg-bunin/blog/462665/),[доклад](https://youtu.be/_8zNTJ1_R5I)
-
-## Доклады
-### Dev
-* [Страх и ненависть DevSecOps, Юрий Шабалин, Swordfish Security](https://youtu.be/ROH636e7Rx8), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/strakh-i-nienavist-devsecops)
-* [Security Compliance & DevOps, Степан Носов, IPONWEB](https://youtu.be/BtFeWnR1xXE), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/security-compliance-and-devops)
-* [AppSec как код, Антон Башарин и Юрий Шабалин, Swordfish Security](https://youtu.be/wfHJyqhTW1o)
-* [DevSecOps или как встроить проверки информационной безопасности в микросервисы, Антон Башарин, Swrodfish Security](https://youtu.be/0Gn8ONZnfU8)
-* [DevSec. Встраивание ИБ в конвейер разработки,Александр Садыков,Станислав Косарев,Антон Гаврилов, «Инфосистемы Джет»](https://youtu.be/jlOL1NkdH_U)
-* [DevSecOps. Общее погружение, Антон Гаврилов,Александр Краснов, «Инфосистемы Джет»](https://youtu.be/BrglJmPkvNg)
-* [DevOps-Secонос, Анатолий Карпенко](https://youtu.be/u4HNIa-dWKk)
-* [SAST, борьба с потенциальными уязвимостями, Андрей Карпов, PVS-Studio](https://youtu.be/HYTizYEXmvs)
-* [Внедрение SAST: теория vs практика, Ярослав Александров, Ростелеком-Solar](https://youtu.be/gN4SCUD3smE)
-* [DevSecOps. Чего нам не хватает. Сергей Белов, Acronis](https://play.sonatype.com/watch/mDGzwBfMxsjX8iz7VsaFo5)
-* [Мы начинаем DevSecOps, Юрий Шабалин, Swordfish Security](https://play.sonatype.com/watch/mDGzwBfMxsjX8iz7VsaFo5)
-* [DevSecOps: tips and tricks, Юрий Шабалин, Swordfish Security](https://youtu.be/l8jiV0DylRU)
-* [SAST и Application Security: как бороться с уязвимостями в коде, Сергей Хренов, PVS-Studio](https://youtu.be/XnHVQBgOBM8)
-* [Как построить безопасность SDLC без SDLC, Иван Афанасьев, BI.Zone](https://youtu.be/Lrcgb9pm6ck)
-### Ops
-* [Заделываем дыры в кластере Kubernetes",Павел Селиванов,Southbridge](https://www.youtube.com/watch?v=Ik7VqbgpRiQ)
-* ["Обеспечение безопасности микросервисной архитектуры в Kubernetes", Олег Маслеников, ЦИАН](https://youtu.be/aKUhXc1t-3o)
-* [Безопасность в Kubernetes. Проект Kaniko. Лаборатория ПИТ](https://youtu.be/14ZI3fcc59Q)
-* [Управление секретами при помощи Hashicorp Vault в Авито, Сергей Носков, Авито](https://youtu.be/oDdDPU6moTs)
-* [“Проникновение в Docker с примерами”, Дмитрий Столяров, Flant](https://youtu.be/hdVNKmru3LM)
-* ["Безопасность в Kubernetes",Дмитрий Лазаренко, Mail.Ru Cloud Solutions](https://youtu.be/62XWgBIYnJ8)
-* [Хайлоад и безопасность в мире DevOps: совместимы ли?, Юрий Колесов, security-gu.ru](https://youtu.be/JAQDnTDdugo)
-* ["У вас есть кластер Kubernetes, но нет майнера на подах? Тогда мы идем к вам!", Антон Булавин, Semrush](https://youtu.be/kth2QVI2PmI)
-* [SecOps. Защита кластера. Юрий Семенюков, Анастасия Дитенкова, Виктор Пучков, «Инфосистемы Джет»](https://youtu.be/caaMo9alIgA)
-* [Облачный пентест: Методики тестирования Amazon AWS, Вадим Шелест, Digital Security](https://youtu.be/1LjeBUOd9_Y)
-* [Использование seccomp для защиты облачной инфраструктуры, Антон Жаболенко, Яндекс.Облако](https://youtu.be/n7ZVJarg4s8)
-* [Мониторинг безопасности сайтов, Григорий Земсков, Ревизиум](https://youtu.be/NbN_uOxRHOo)
-
-## Подкасты
-* [Про DevSecOps с Барухом Садогурским, Барухом Садогурский, JFrog](https://soundcloud.com/qaguild/s3e07)
-* [Мобильный SSDLC, Юрий Шабалин, Swordfish Security](https://youtu.be/EGB8mstJlyA)
-* [SDCast #96, Юрий Шабалин, Swordfish Security](https://sdcast.ksdaemon.ru/2019/01/sdcast-96/)
-
-
-## Каналы
-* [DevSecOps Wine](https://t.me/sec_devops)
-* [Технологический Болт Генона](https://t.me/tech_b0lt_Genona)
-* [k8s (in)security](https://t.me/k8security)
-* [DevSecOps Talks](https://t.me/devsecops_weekly)
-
-## Чаты
-* [DevSecOps - русскоговорящее сообщество](https://t.me/devsecops_ru)
-* [DevSecOps Wine Chat](https://t.me/sec_devops_chat)
