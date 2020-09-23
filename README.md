@@ -120,6 +120,8 @@
 
 ### Коммерческие комплексные решения Cloud Native Security Platform
 * [Aqua CSP](https://www.aquasec.com/aqua-cloud-native-security-platform/)
+* [Aqua CSPM](https://www.aquasec.com/products/cspm/)
+* [Prisma Cloud Compute](https://www.paloaltonetworks.com/prisma/cloud)
 * [NeuVector](https://neuvector.com/)
 * [Sysdig](https://sysdig.com/secure-devops-platform/)
 * [Tenable.io Container Security](https://www.tenable.com/products/tenable-io/container-security)
@@ -154,16 +156,27 @@
 * [ThreatFix](https://threadfix.it/)
 * [Kenna Security](https://www.kennasecurity.com/)
 
-### Безопасность AWS
+### Compliance-as-code
 #### Бесплатные / Open-source
 * [Chef InSpec](https://github.com/inspec/inspec)
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
-#### Коммерческие / Enterprise 
-* [Aqua CSPM](https://www.aquasec.com/products/cspm/)
+
+### Безопасность AWS
+#### Бесплатные / Open-source
+* [AWS-inventor](https://github.com/nccgroup/aws-inventory)
+* [Aws-public-ips](https://github.com/arkadiyt/aws_public_ips)
+* [CloudSploit](https://github.com/cloudsploit/scans)
+* [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
+* [S3 Scan](https://github.com/bear/s3scan)
 #### Другие подборки
 * [My-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 
-### Compliance-as-code
+### Безопасность GCP
+#### Бесплатные / Open-source
+* [G-Scout](https://github.com/nccgroup/G-Scout)
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
+* [gcp-audit](https://github.com/spotify/gcp-audit)
+* [gcp-iam-collector](https://github.com/marcin-kolda/gcp-iam-collector)
 
 ### Другие общие подборки по DevSecOps инструментам
 * [My Arsenal of Cloud Native (Security) Tools by MARCO LANCINI](https://www.marcolancini.it/2018/blog-arsenal-cloud-native-security-tools/)
