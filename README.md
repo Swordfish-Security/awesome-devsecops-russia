@@ -213,6 +213,7 @@
 * [Tenable.io Container Security](https://www.tenable.com/products/tenable-io/container-security)
 * [McAfee Container Security](https://www.mcafee.com/enterprise/en-us/products/mvision-cloud/container-security.html)
 * [TrendMicro CloudOne](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/cloud-one-container-image-security.html)
+* [Qualys Container Security](https://www.qualys.com/apps/container-security/)
 
 ### Runtime Security 
 Инструмент для проверки веб-приложений в режиме runtime
