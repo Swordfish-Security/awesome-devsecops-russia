@@ -121,8 +121,11 @@
 * [Arachni](https://github.com/Arachni/arachni)
 * [OWASP ZAP](https://github.com/zaproxy/zaproxy)
 * [w3af](https://github.com/andresriancho/w3af)
+* [nikto](https://github.com/sullo/nikto)
 #### Коммерческие / Enterprise 
+* [PortSwigger Burp Suite](https://portswigger.net/burp)
 * [NetSparker](https://www.netsparker.com/)
+* [Acunetix](https://www.acunetix.com/)
 * [WebInspect](https://www.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview)
 * [PT AI](https://www.ptsecurity.com/ww-en/products/ai/)
 * [Veracode Dynamic Analysis](https://www.veracode.com/products/dynamic-analysis-dast)
