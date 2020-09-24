@@ -77,7 +77,7 @@
 *	[2016-07-04]	[Проникновение в Docker с примерами, Дмитрий Столяров, Flant](https://youtu.be/hdVNKmru3LM)
 
 ## Подкасты
-* [Про DevSecOps с Барухом Садогурским, Барухом Садогурский, JFrog](https://soundcloud.com/qaguild/s3e07)
+* [Про DevSecOps, Барух Садогурский, JFrog](https://soundcloud.com/qaguild/s3e07)
 * [Мобильный SSDLC, Юрий Шабалин, Swordfish Security](https://youtu.be/EGB8mstJlyA)
 * [SDCast #96, Юрий Шабалин, Swordfish Security](https://sdcast.ksdaemon.ru/2019/01/sdcast-96/)
 ## Инструменты
