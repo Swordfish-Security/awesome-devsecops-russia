@@ -260,6 +260,8 @@
 Инструмент для проверки веб-приложений в режиме runtime
 #### Бесплатные / Open-source
 * [RASP](https://github.com/baidu/openrasp)
+#### Коммерческие / Enterprise 
+* [Sqreen](https://www.sqreen.com/platform?utm_medium=social&utm_source=blog&utm_campaign=header&utm_term=Product)
 
 ### IAST
 Инструмент, совмещающий практики SAST и DAST.
@@ -329,6 +331,7 @@
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 * [gcp-audit](https://github.com/spotify/gcp-audit)
 * [gcp-iam-collector](https://github.com/marcin-kolda/gcp-iam-collector)
+* [gke-auditor](https://github.com/google/gke-auditor)
 
 ### Другие общие подборки по DevSecOps инструментам
 * [My Arsenal of Cloud Native (Security) Tools by MARCO LANCINI](https://www.marcolancini.it/2018/blog-arsenal-cloud-native-security-tools/)
