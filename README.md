@@ -56,6 +56,7 @@
 *	[2020-05-26]	[DevOps vs DevSecOps: как это выглядело в одном банке, Техносерв](https://habr.com/ru/company/technoserv/blog/503720/)
 *	[2020-04-22]	[Как сэкономить время и силы на внедрении стандартов безопасной разработки с помощью OWASP SAMM, OZON](https://habr.com/ru/company/ozontech/blog/498272/)
 *	[2020-03-24]	[Используем Zap Baseline Scan для непрерывного сканирования сайта на уязвимости, Александр Тютин](https://habr.com/ru/post/493778/)
+*	[2020-02-04]	[Какая разница между DevOps и DevSecOps?](https://www.viva64.com/ru/b/0710/)
 *	[2020-02-04]	[Статическое тестирование безопасности опенсорсными инструментами, Александра Сватикова, Одноклассники](https://habr.com/ru/company/odnoklassniki/blog/486722/), [[доклад]](https://youtu.be/E87YkXhdxAA)
 *	[2020-01-13]	[Использование сканера уязвимостей в используемых библиотеках Dependency-Check в GitlabCI, Пацев Антон](https://habr.com/ru/post/483716/)
 *	[2019-12-17]	[Практические ответы на нетривиальные вопросы, или Как внедрять DevSecOps в организации со сложным IT-ландшафтом, ВТБ](https://habr.com/ru/company/vtb/blog/479082/)
@@ -102,10 +103,12 @@
 *	[2020-04-22]	[Обеспечение безопасности микросервисной архитектуры в Kubernetes, Олег Маслеников, ЦИАН](https://youtu.be/aKUhXc1t-3o)
 *	[2020-01-16]	[У вас есть кластер Kubernetes, но нет майнера на подах? Тогда мы идем к вам! Антон Булавин, Semrush](https://youtu.be/kth2QVI2PmI)
 *	[2019-12-10]	[Заделываем дыры в кластере Kubernetes, Павел Селиванов, Southbridge](https://www.youtube.com/watch?v=Ik7VqbgpRiQ)
+*	[2019-05-17]	[Непрерывный статический анализ, Иван Пономарев](https://www.youtube.com/watch?v=SvN7ZwWw7pM&feature=youtu.be)
 *	[2019-02-27]	[Безопасность в Kubernetes, Дмитрий Лазаренко, Mail.Ru Cloud Solutions](https://youtu.be/62XWgBIYnJ8)
 *	[2019-02-08]	[Управление секретами при помощи Hashicorp Vault в Авито, Сергей Носков, Авито](https://youtu.be/oDdDPU6moTs)
 *	[2018-10-30]	[Мониторинг безопасности сайтов, Григорий Земсков, Ревизиум](https://youtu.be/NbN_uOxRHOo)
 *	[2018-10-05]	[Безопасность в Kubernetes. Проект Kaniko. Лаборатория ПИТ](https://youtu.be/14ZI3fcc59Q)
+*	[2018-07-23]	[Статический анализ: ищем ошибки... и уязвимости? Сергей Васильев, PVS-Studio](https://www.youtube.com/watch?v=ORygHFn2uJk)
 *	[2017-04-22]	[Хайлоад и безопасность в мире DevOps: совместимы ли? Юрий Колесов, security-gu.ru](https://youtu.be/JAQDnTDdugo)
 *	[2016-07-04]	[Проникновение в Docker с примерами, Дмитрий Столяров, Flant](https://youtu.be/hdVNKmru3LM)
 
@@ -140,9 +143,10 @@
 #### Коммерческие / Enterprise 
 * [Checkmarx](https://www.checkmarx.com/)
 * [FortifySCA](https://www.microfocus.com/en-us/solutions/application-security)
+* [PT AI](https://www.ptsecurity.com/ww-en/products/ai/)
+* [PVS-Studio](https://www.viva64.com/ru/sast/)
 * [RIPS](https://www.ripstech.com/)
 * [Solar AppScreener](https://solarappscreener.com/)
-* [PT AI](https://www.ptsecurity.com/ww-en/products/ai/)
 * [Veracode Static Analysis](https://www.veracode.com/products/binary-static-analysis-sast)
 #### Другие подборки с описанием SAST под конкретный язык
 * [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
