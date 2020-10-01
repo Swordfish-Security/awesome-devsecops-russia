@@ -48,11 +48,13 @@
 
 ## Статьи
 ### Dev
+*	[2020-10-01]	[Как написать правила для Checkmarx и не сойти с ума, Юрий Шабалин, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/521396/)
 *	[2020-09-17]	[Строим безопасную разработку в ритейлере. Опыт одного большого проекта, Иван Старосельский, Solar Security](https://habr.com/ru/company/solarsecurity/blog/519428/)
 *	[2020-09-14]	[От Threat Modeling до безопасности AWS - 50+ open-source инструментов для выстраивания безопасности DevOps, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/518758/)
 *	[2020-09-10]	[DevSecOps: организация фаззинга исходного кода, Дмитрий Евдокимов,Никита Кныжов,Павел Князев, Digital Security](https://habr.com/ru/company/dsec/blog/517596/)
 *	[2020-08-26]	[DevSecOps: принципы работы и сравнение SCA. Часть первая, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/516660/)
 *	[2020-08-20]	[Безопасность npm пакетов, Слава Фомин, ДомКлик](https://habr.com/ru/company/domclick/blog/515848/),[2](https://habr.com/ru/company/domclick/blog/516792/),[3](https://habr.com/ru/company/domclick/blog/518502/)
+*	[2020-05-28]	[(S)SDLC, или Как сделать разработку безопаснее, Ярослав Александров, Ростелеком Solar](https://habr.com/ru/company/solarsecurity/blog/497864/),[2](https://habr.com/ru/company/solarsecurity/blog/499860/)
 *	[2020-05-26]	[DevOps vs DevSecOps: как это выглядело в одном банке, Техносерв](https://habr.com/ru/company/technoserv/blog/503720/)
 *	[2020-04-22]	[Как сэкономить время и силы на внедрении стандартов безопасной разработки с помощью OWASP SAMM, OZON](https://habr.com/ru/company/ozontech/blog/498272/)
 *	[2020-03-24]	[Используем Zap Baseline Scan для непрерывного сканирования сайта на уязвимости, Александр Тютин](https://habr.com/ru/post/493778/)
@@ -62,6 +64,7 @@
 *	[2019-12-12]	[«Hello, Checkmarx!». Как написать запрос для Checkmarx SAST и найти крутые уязвимости, Maxim Tyukov, DINS](https://habr.com/ru/company/dins/blog/477742/)
 *	[2019-04-18]	[Страх и ненависть DevSecOps, доклад Юрия Шабалин, перевод в текст Александра Титова](https://habr.com/ru/company/oleg-bunin/blog/448488/)
 *	[2018-01-11]	[Как внедрить Secure Development Lifecycle и не поседеть. Рассказ Яндекса на ZeroNights 2017, Яндекс](https://habr.com/ru/company/yandex/blog/346426/)
+*	[2017-09-17]	[Мечтают ли WAF’ы о статанализаторах, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/338110/)
 *	[2016-07-08]	[Ищем уязвимости в коде: теория, практика и перспективы SAST, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/305000/)
 *	[2014-05-29]	[Об анализе исходного кода и автоматической генерации эксплоитов, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/224547/)
 ### Ops
