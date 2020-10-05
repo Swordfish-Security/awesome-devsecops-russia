@@ -264,6 +264,7 @@
 * [Kubeaudit](https://github.com/Shopify/kubeaudit)
 * [Kubesec](https://github.com/controlplaneio/kubesec)
 * [audit2rbac](https://github.com/liggitt/audit2rbac)
+* [kubei](https://github.com/Portshift/Kubei)
 
 ### Container Runtime
 Инструмент для отслеживания поведения контейнеров в Runtime.
@@ -342,6 +343,7 @@
 Инструменты для проверки безопасности AWS.
 #### Бесплатные / Open-source
 * [AWS-inventor](https://github.com/nccgroup/aws-inventory)
+* [aws_key_triage_tool](https://github.com/cedowens/aws_key_triage_tool)
 * [Aws-public-ips](https://github.com/arkadiyt/aws_public_ips)
 * [CloudSploit](https://github.com/cloudsploit/scans)
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
