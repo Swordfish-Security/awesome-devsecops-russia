@@ -120,6 +120,7 @@
 *	[2016-07-04]	[Проникновение в Docker с примерами, Дмитрий Столяров, Flant](https://youtu.be/hdVNKmru3LM)
 
 ## Подкасты
+* [SecOps - второе пришествие, Денис Якимов, Swordfish Security](https://soundcloud.com/qaguild/s03e14)
 * [Про DevSecOps, Барух Садогурский, JFrog](https://soundcloud.com/qaguild/s3e07)
 * [Мобильный SSDLC, Юрий Шабалин, Swordfish Security](https://youtu.be/EGB8mstJlyA)
 * [SDCast #96, Юрий Шабалин, Swordfish Security](https://sdcast.ksdaemon.ru/2019/01/sdcast-96/)
