@@ -71,9 +71,12 @@
 *	[2016-07-08]	[Ищем уязвимости в коде: теория, практика и перспективы SAST, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/305000/)
 *	[2014-05-29]	[Об анализе исходного кода и автоматической генерации эксплоитов, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/224547/)
 ### Ops
+*	[2020-07-15]	[Валидация Kubernetes YAML на соответствие лучшим практикам и политикам, перевод Amit Saha, Flant](https://habr.com/ru/company/flant/blog/511018/)
 *	[2020-06-10]	[Контейнеры для приложений: риски безопасности и ключевые решения по защите, Денис Якимов, КРОК](https://www.anti-malware.ru/Market_Analysis/Application-containers-security-risks-and-key-security-solutions)
+*	[2020-03-10]	[Как автоматизировать безопасность контейнеров в стиле Policy as Code с помощью CRD, перевод Niteen Kole, Mail.ru](https://habr.com/ru/company/mailru/blog/490796/)
 *	[2019-12-30]	[Seccomp в Kubernetes: 7 вещей, о которых надо знать с самого начала, перевод Paulo Gomes, Flant](https://habr.com/ru/company/flant/blog/481114/)
 *	[2019-09-27]	[Азбука безопасности в Kubernetes: аутентификация, авторизация, аудит, Олег Вознесенский, Flant](https://habr.com/ru/company/flant/blog/468679/)
+*	[2019-09-12]	[Выход за пределы pod'а в Kubernetes через монтирование логов, перевод Daniel Sagi, Flant](https://habr.com/ru/company/flant/blog/466625/)
 *	[2019-08-28]	[33+ инструмента для безопасности Kubernetes, перевод статьи Mateo Burillo, Flant](https://habr.com/ru/company/flant/blog/465141/)
 *	[2019-08-07]	[Безопасность Helm, доклад Александра Хаерова, Chainstack](https://habr.com/ru/company/oleg-bunin/blog/462665/), [[доклад]](https://youtu.be/_8zNTJ1_R5I)
 *	[2019-07-04]	[Способы и примеры внедрения утилит для проверки безопасности Docker, Павел Канн, Swordfish Security](https://swordfishsecurity.ru/docker-security-scanning-examples)
@@ -85,6 +88,7 @@
 *	[2018-09-11]	[Понимаем RBAC в Kubernetes, перевод статьи Javier Salmeron, Flant](https://habr.com/ru/company/flant/blog/422801/)
 *	[2018-07-25]	[11 способов (не) стать жертвой взлома в Kubernetes, перевод статьи Andrew Martin, Flant](https://habr.com/ru/company/flant/blog/417905/)
 *	[2017-10-03]	[Проблемы безопасности Docker, Перевод от Игоря Олемского, Southbridge](https://habr.com/ru/company/southbridge/blog/339126/)
+*	[2017-09-15]	[Обеспечение сетевой безопасности в кластере Kubernetes,перевод Ahmet Alp Balkan, Southbridge](https://habr.com/ru/company/southbridge/blog/337088/)
 *	[2017-02-17]	[Контейнеры и безопасность: seccomp, Андрей Емельянов, Selectel](https://habr.com/ru/company/selectel/blog/322046/)
 		
 ## Доклады
