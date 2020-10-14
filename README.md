@@ -205,6 +205,7 @@
 * [TruffleHog](https://github.com/dxa4481/truffleHog)
 * [Talisman](https://github.com/thoughtworks/talisman)
 * [Slack Watchman](https://github.com/PaperMtn/slack-watchman)
+* [GitLab Watchman](https://github.com/PaperMtn/gitlab-watchman)
 #### Коммерческие / Enterprise 
 * [GitGuardian](https://www.gitguardian.com/community)
 
