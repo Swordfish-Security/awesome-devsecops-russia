@@ -107,6 +107,7 @@
 *	[2019-07-03]	[Как построить безопасность SDLC без SDLC, Иван Афанасьев, BI.Zone](https://youtu.be/Lrcgb9pm6ck)
 *	[2018-09-23]	[Страх и ненависть DevSecOps, Юрий Шабалин, Swordfish Security](https://youtu.be/ROH636e7Rx8), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [[слайды]](https://speakerdeck.com/devopsmoscow/strakh-i-nienavist-devsecops)
 *	[2018-09-23]	[Security Compliance & DevOps, Степан Носов, IPONWEB](https://youtu.be/BtFeWnR1xXE), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [[слайды]](https://speakerdeck.com/devopsmoscow/security-compliance-and-devops)
+*	[2018-02-24]	[Теория и практика формального моделирования уязвимостей, Владимир Кочетков, PT](https://youtu.be/h7SwURZNiWo),[слайды](https://speakerdeck.com/kochetkov/formal-noie-modielirovaniie-uiazvimostiei)
 ### Ops
 *	[2020-05-27]	[Облачный пентест: Методики тестирования Amazon AWS, Вадим Шелест, Digital Security](https://youtu.be/1LjeBUOd9_Y)
 *	[2020-05-27]	[Использование seccomp для защиты облачной инфраструктуры, Антон Жаболенко, Яндекс.Облако](https://youtu.be/n7ZVJarg4s8)
