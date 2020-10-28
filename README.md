@@ -251,6 +251,8 @@
 * [WhiteSource for containers](https://www.whitesourcesoftware.com/whitesource-for-containers/)
 #### Другие подборки
 * [29 Docker security tools compared](https://sysdig.com/blog/20-docker-security-tools/)
+* [Awesome Container Security](https://github.com/kai5263499/awesome-container-security)
+* [Awesome Docker Security](https://github.com/myugan/awesome-docker-security)
 
 ### Проверка Docker / Kubernetes на соответствие
 Инструмент для проверки хоста/dockerd/сборки на соответствии (CIS/PCI DSS и другие).
@@ -271,6 +273,9 @@
 * [Kubesec](https://github.com/controlplaneio/kubesec)
 * [audit2rbac](https://github.com/liggitt/audit2rbac)
 * [kubei](https://github.com/Portshift/Kubei)
+#### Другие подборки
+* [Awesome Kubernetes Security](https://github.com/ksoclabs/awesome-kubernetes-security)
+* [Awesome k8s Security](https://github.com/magnologan/awesome-k8s-security)
 
 ### Container Runtime
 Инструмент для отслеживания поведения контейнеров в Runtime.
