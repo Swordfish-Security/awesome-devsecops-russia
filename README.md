@@ -362,6 +362,7 @@
 #### Другие подборки
 * [My-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 * [Awesome AWS S3 Tools](https://github.com/mxm0z/awesome-sec-s3)
+* [Cloud Security Tools by Cloudberry Engineering](https://cloudberry.engineering/tool/)
 
 ### Безопасность GCP
 Инструменты для проверки безопасности GCP.
