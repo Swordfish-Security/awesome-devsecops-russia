@@ -314,6 +314,8 @@
 Практика тестирования приложения, при которой на вход программе подаются данные, которые могут привести к неопределенному поведению.
 #### Другие подборки
 * [Awesome Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme)
+* [Fuzzing Paper Collection](https://github.com/0xricksanchez/paper_collection)
+* [Fuzzing Papper](https://github.com/wcventure/FuzzingPaper)
 
 ### Vulnerability Management
 Инструмент, собирающий и агрегирующий результаты проверки сторонних инструментов.
