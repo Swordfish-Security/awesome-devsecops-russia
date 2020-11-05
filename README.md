@@ -51,6 +51,7 @@
 ## Статьи
 ### Dev
 *	[2020-10-01]	[Как написать правила для Checkmarx и не сойти с ума, Юрий Шабалин, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/521396/)
+*	[2020-09-18]	[Pysa: как избежать проблем безопасности в коде Python,перевод Graham Bleaney, Sinan Cepel,SkillFactory](https://habr.com/ru/company/skillfactory/blog/519702/)
 *	[2020-09-17]	[Строим безопасную разработку в ритейлере. Опыт одного большого проекта, Иван Старосельский, Solar Security](https://habr.com/ru/company/solarsecurity/blog/519428/)
 *	[2020-09-14]	[От Threat Modeling до безопасности AWS - 50+ open-source инструментов для выстраивания безопасности DevOps, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/518758/)
 *	[2020-09-10]	[DevSecOps: организация фаззинга исходного кода, Дмитрий Евдокимов,Никита Кныжов,Павел Князев, Digital Security](https://habr.com/ru/company/dsec/blog/517596/)
@@ -186,6 +187,7 @@
 * [OWASP ZAP](https://github.com/zaproxy/zaproxy)
 * [w3af](https://github.com/andresriancho/w3af)
 * [nikto](https://github.com/sullo/nikto)
+* [nerve](https://github.com/PaytmLabs/nerve)
 #### Коммерческие / Enterprise 
 * [PortSwigger Burp Suite](https://portswigger.net/burp)
 * [NetSparker](https://www.netsparker.com/)
