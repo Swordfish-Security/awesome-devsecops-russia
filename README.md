@@ -172,7 +172,6 @@
 * [LGTM](https://semmle.com/lgtm)
 * [Semgrep](https://semgrep.dev/editor%20)
 * [HuskyCI](https://github.com/globocom/huskyci)
-huskyci
 #### Коммерческие / Enterprise 
 * [Checkmarx](https://www.checkmarx.com/)
 * [FortifySCA](https://www.microfocus.com/en-us/solutions/application-security)
