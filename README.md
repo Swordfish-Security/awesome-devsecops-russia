@@ -50,7 +50,8 @@
 
 ## Статьи
 ### Dev
-*	[2021-14-01]	[Лучшие практики при написании безопасного Dockerfile, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/537280/)
+*	[2021-02-09]	[CodeQL: SAST своими руками (и головой), часть 1, Павел Канн, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/541554/)
+*	[2021-01-14]	[Лучшие практики при написании безопасного Dockerfile, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/537280/)
 *	[2020-10-01]	[Как написать правила для Checkmarx и не сойти с ума, Юрий Шабалин, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/521396/)
 *	[2020-09-18]	[Pysa: как избежать проблем безопасности в коде Python,перевод Graham Bleaney, Sinan Cepel,SkillFactory](https://habr.com/ru/company/skillfactory/blog/519702/)
 *	[2020-09-17]	[Строим безопасную разработку в ритейлере. Опыт одного большого проекта, Иван Старосельский, Solar Security](https://habr.com/ru/company/solarsecurity/blog/519428/)
@@ -169,9 +170,10 @@
 #### Бесплатные / Open-source универсальные средства
 * [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan)
 * [Salus](https://github.com/coinbase/salus)
-* [LGTM](https://semmle.com/lgtm)
-* [Semgrep](https://semgrep.dev/editor%20)
+* [Semgrep](https://semgrep.dev/editor)
 * [HuskyCI](https://github.com/globocom/huskyci)
+* [CodeQL](https://securitylab.github.com/tools/codeql)
+* [Консоль LGTM для CodeQL](https://semmle.com/lgtm)
 #### Коммерческие / Enterprise 
 * [Checkmarx](https://www.checkmarx.com/)
 * [FortifySCA](https://www.microfocus.com/en-us/solutions/application-security)
