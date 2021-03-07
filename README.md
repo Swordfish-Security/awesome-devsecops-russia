@@ -74,6 +74,7 @@
 *	[2016-07-08]	[Ищем уязвимости в коде: теория, практика и перспективы SAST, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/305000/)
 *	[2014-05-29]	[Об анализе исходного кода и автоматической генерации эксплоитов, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/224547/)
 ### Ops
+*	[2020-09-23]	[Враг не пройдёт, или как помочь командам соблюдать стандарты разработки, Александр Токарев, Сбербанк](https://habr.com/ru/company/oleg-bunin/blog/328262/)
 *	[2020-07-15]	[Валидация Kubernetes YAML на соответствие лучшим практикам и политикам, перевод Amit Saha, Flant](https://habr.com/ru/company/flant/blog/511018/)
 *	[2020-06-10]	[Контейнеры для приложений: риски безопасности и ключевые решения по защите, Денис Якимов, КРОК](https://www.anti-malware.ru/Market_Analysis/Application-containers-security-risks-and-key-security-solutions)
 *	[2020-03-10]	[Как автоматизировать безопасность контейнеров в стиле Policy as Code с помощью CRD, перевод Niteen Kole, Mail.ru](https://habr.com/ru/company/mailru/blog/490796/)
