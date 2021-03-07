@@ -170,9 +170,10 @@
 #### Бесплатные / Open-source универсальные средства
 * [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan)
 * [Salus](https://github.com/coinbase/salus)
-* [LGTM](https://semmle.com/lgtm)
-* [Semgrep](https://semgrep.dev/editor%20)
+* [Semgrep](https://semgrep.dev/editor)
 * [HuskyCI](https://github.com/globocom/huskyci)
+* [CodeQL](https://securitylab.github.com/tools/codeql)
+* [Консоль LGTM для CodeQL](https://semmle.com/lgtm)
 #### Коммерческие / Enterprise 
 * [Checkmarx](https://www.checkmarx.com/)
 * [FortifySCA](https://www.microfocus.com/en-us/solutions/application-security)
