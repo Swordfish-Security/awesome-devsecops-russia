@@ -50,8 +50,10 @@
 
 ## Статьи
 ### Dev
+*	[2021-05-13]	[DevSecOps. PT Application Inspector в разработке ПО: блокировка релиза,Тимур Гильмуллин, PT](https://habr.com/ru/company/pt/blog/557142/)
 *	[2021-02-09]	[CodeQL: SAST своими руками (и головой), часть 1, Павел Канн, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/541554/)
 *	[2021-01-14]	[Лучшие практики при написании безопасного Dockerfile, Денис Якимов, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/537280/)
+*	[2020-12-22]	[DevSecOps: как мы внедряли PT Application Inspector в наш продуктовый конвейер,Тимур Гильмуллин, PT](https://habr.com/ru/company/pt/blog/534458/)
 *	[2020-10-01]	[Как написать правила для Checkmarx и не сойти с ума, Юрий Шабалин, Swordfish Security](https://habr.com/ru/company/swordfish_security/blog/521396/)
 *	[2020-09-18]	[Pysa: как избежать проблем безопасности в коде Python,перевод Graham Bleaney, Sinan Cepel,SkillFactory](https://habr.com/ru/company/skillfactory/blog/519702/)
 *	[2020-09-17]	[Строим безопасную разработку в ритейлере. Опыт одного большого проекта, Иван Старосельский, Solar Security](https://habr.com/ru/company/solarsecurity/blog/519428/)
