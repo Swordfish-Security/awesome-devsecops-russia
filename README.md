@@ -320,6 +320,8 @@
 * [Checkmarx IAST](https://www.checkmarx.com/products/interactive-application-security-testing)
 * [Veracode IAST](https://www.veracode.com/products/interactive-analysis-iast)
 * [Synopsys IAST](https://www.synopsys.com/software-integrity/security-testing/interactive-application-security-testing.html)
+* [Acunetix IAST](https://www.acunetix.com/vulnerability-scanner/acusensor-technology/)
+* [Burp IAST](https://portswigger.net/burp/documentation/infiltrator)
 
 ### Fuzzing
 Практика тестирования приложения, при которой на вход программе подаются данные, которые могут привести к неопределенному поведению.
