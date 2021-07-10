@@ -137,11 +137,14 @@
 * [Про DevSecOps, Барух Садогурский, JFrog](https://soundcloud.com/qaguild/s3e07)
 * [Мобильный SSDLC, Юрий Шабалин, Swordfish Security](https://youtu.be/EGB8mstJlyA)
 * [SDCast #96, Юрий Шабалин, Swordfish Security](https://sdcast.ksdaemon.ru/2019/01/sdcast-96/)
+* [Qu3b3c: Немного про K8s и Cloud Native](https://music.yandex.ru/album/10321679/track/85503276)
+* [DevOps Курилка. "DevSecOps as Инфобезопасник 2.0".](https://t.me/sec_devops/495?comment=5932)
 
 ## Стандарты и нормативные документы
 ### Модели зрелости
 * [BSIMM](https://www.bsimm.com/)
 * [OWASP SAMM](https://owaspsamm.org/model/)
+* [OWASP Devsecops Maturity Model](https://owasp.org/www-project-devsecops-maturity-model/)
 ### Стандарты
 * ["ГОСТ 58412 Разработка безопасного ПО. Угрозы безопасности информации при разработке ПО"](https://t.me/sec_devops_chat/460)
 * ["ГОСТ 56939 Разработка безопасного ПО. Общие требования."](https://t.me/sec_devops_chat/460)
@@ -150,6 +153,7 @@
 
 ## Курсы
 * ["Основные сведения об обеспечении безопасности с помощью моделирования угроз", Microsoft](https://docs.microsoft.com/ru-ru/learn/paths/tm-threat-modeling-fundamentals/#)
+* [Security Courses by Yandex] (http://securitygym.ru/)
 
 ## Инструменты
 ### Инструменты для моделирования угроз (Threat modeling)
@@ -197,6 +201,7 @@
 * [w3af](https://github.com/andresriancho/w3af)
 * [nikto](https://github.com/sullo/nikto)
 * [nerve](https://github.com/PaytmLabs/nerve)
+* [Nuclei](https://github.com/projectdiscovery/nuclei)
 #### Коммерческие / Enterprise 
 * [PortSwigger Burp Suite](https://portswigger.net/burp)
 * [NetSparker](https://www.netsparker.com/)
@@ -218,13 +223,14 @@
 * [Talisman](https://github.com/thoughtworks/talisman)
 * [Slack Watchman](https://github.com/PaperMtn/slack-watchman)
 * [GitLab Watchman](https://github.com/PaperMtn/gitlab-watchman)
+* [Rusty Hog](https://github.com/newrelic/rusty-hog)
 #### Коммерческие / Enterprise 
 * [GitGuardian](https://www.gitguardian.com/community)
 
 ### Анализаторы сторонних компонентов (SCA) 
 Анализатор сторонних компонентов - инструмент, который осуществляет поиск уязвимостей в сторонних open-source компонентах, подключенных к проекту. 
 #### Бесплатные / Open-source
-* [Dependency Check](https://github.com/jeremylong/DependencyCheck)
+* [Dependency aeck](https://github.com/jeremylong/DependencyCheck)
 * [Dependency Track](https://dependencytrack.org/)
 * [Nexus Vulnerability Scanner](https://www.sonatype.com/appscan)
 * [ClearlyDefined](https://clearlydefined.io/?sortDesc=true&sort=releaseDate)
@@ -284,6 +290,8 @@
 * [Kubesec](https://github.com/controlplaneio/kubesec)
 * [audit2rbac](https://github.com/liggitt/audit2rbac)
 * [kubei](https://github.com/Portshift/Kubei)
+* [Kubestriker](https://github.com/vchinnipilli/kubestriker)
+* [Container penetration toolkit](https://github.com/cdk-team/CDK)
 #### Другие подборки
 * [Awesome Kubernetes Security](https://github.com/ksoclabs/awesome-kubernetes-security)
 * [Awesome k8s Security](https://github.com/magnologan/awesome-k8s-security)
@@ -296,6 +304,7 @@
 
 ### Коммерческие комплексные решения Cloud Native Security Platform
 * [Aqua CSP](https://www.aquasec.com/aqua-cloud-native-security-platform/)
+* [Luntry](https://luntry.ru/)
 * [Aqua CSPM](https://www.aquasec.com/products/cspm/)
 * [Prisma Cloud Compute](https://www.paloaltonetworks.com/prisma/cloud)
 * [NeuVector](https://neuvector.com/)
@@ -355,6 +364,7 @@
 * [Checkov](https://github.com/bridgecrewio/checkov)
 * [Terrascan](https://github.com/cesar-rodriguez/terrascan)
 * [Tfsec](https://github.com/liamg/tfsec)
+* [kics](https://www.kics.io/)
 #### Kubernetes YAML validating
 * [Kubeval](https://github.com/instrumenta/kubeval)
 * [Kube-score](https://github.com/zegl/kube-score)
@@ -364,6 +374,7 @@
 * [Polaris](https://github.com/FairwindsOps/polaris#cli)
 #### Сравнение
 * [Сравнение инструментов](https://learnk8s.io/validating-kubernetes-yaml)
+* [tool-compare](https://github.com/iacsecurity/tool-compare)
 
 ### Безопасность AWS
 Инструменты для проверки безопасности AWS.
