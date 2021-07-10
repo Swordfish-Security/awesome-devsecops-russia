@@ -224,6 +224,7 @@
 * [Slack Watchman](https://github.com/PaperMtn/slack-watchman)
 * [GitLab Watchman](https://github.com/PaperMtn/gitlab-watchman)
 * [Rusty Hog](https://github.com/newrelic/rusty-hog)
+* [Semgrep](https://semgrep.dev/secret)
 #### Коммерческие / Enterprise 
 * [GitGuardian](https://www.gitguardian.com/community)
 
