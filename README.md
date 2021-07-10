@@ -243,6 +243,7 @@
 * [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
 * [WhiteSource for Developers](https://www.whitesourcesoftware.com/whitesource-for-developers/)
 * [JFrog XRay](https://jfrog.com/xray/)
+* [Black Duck](https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html)
 #### Другие подборки
 * [OWASP Composition Analysis](https://owasp.org/www-community/Component_Analysis)
 
@@ -267,6 +268,7 @@
 * [Snyk Container](https://snyk.io/product/container-vulnerability-management/)
 * [TrendMicro SmartCheck](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/smart-check-image-scanning.html)
 * [WhiteSource for containers](https://www.whitesourcesoftware.com/whitesource-for-containers/)
+* [Nexus Container](https://www.sonatype.com/products/container)
 #### Другие подборки
 * [29 Docker security tools compared](https://sysdig.com/blog/20-docker-security-tools/)
 * [Awesome Container Security](https://github.com/kai5263499/awesome-container-security)
