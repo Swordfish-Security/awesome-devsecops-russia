@@ -153,7 +153,7 @@
 
 ## Курсы
 * ["Основные сведения об обеспечении безопасности с помощью моделирования угроз", Microsoft](https://docs.microsoft.com/ru-ru/learn/paths/tm-threat-modeling-fundamentals/#)
-* [Security Courses by Yandex] (http://securitygym.ru/)
+* [Security Courses by Yandex](http://securitygym.ru/)
 
 ## Инструменты
 ### Инструменты для моделирования угроз (Threat modeling)
