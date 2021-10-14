@@ -76,6 +76,7 @@
 *	[2016-07-08]	[Ищем уязвимости в коде: теория, практика и перспективы SAST, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/305000/)
 *	[2014-05-29]	[Об анализе исходного кода и автоматической генерации эксплоитов, Владимир Кочетков, PT](https://habr.com/ru/company/pt/blog/224547/)
 ### Ops
+*	[2021-10-13]	[Kubernetes Security Checklist and Requirements - All in One, Денис Якимов, Vinum Security](https://github.com/Vinum-Security/kubernetes-security-checklist/blob/main/README-RU.md)
 *	[2020-09-23]	[Враг не пройдёт, или как помочь командам соблюдать стандарты разработки, Александр Токарев, Сбербанк](https://habr.com/ru/company/oleg-bunin/blog/328262/)
 *	[2020-07-15]	[Валидация Kubernetes YAML на соответствие лучшим практикам и политикам, перевод Amit Saha, Flant](https://habr.com/ru/company/flant/blog/511018/)
 *	[2020-06-10]	[Контейнеры для приложений: риски безопасности и ключевые решения по защите, Денис Якимов, КРОК](https://www.anti-malware.ru/Market_Analysis/Application-containers-security-risks-and-key-security-solutions)
@@ -296,6 +297,7 @@
 * [Kubestriker](https://github.com/vchinnipilli/kubestriker)
 * [Container penetration toolkit](https://github.com/cdk-team/CDK)
 #### Другие подборки
+* [Kubernetes Security Checklist and Requirements - All in One](https://github.com/Vinum-Security/kubernetes-security-checklist/blob/main/README-RU.md)
 * [Awesome Kubernetes Security](https://github.com/ksoclabs/awesome-kubernetes-security)
 * [Awesome k8s Security](https://github.com/magnologan/awesome-k8s-security)
 
