@@ -232,7 +232,7 @@
 ### Анализаторы сторонних компонентов (SCA) 
 Анализатор сторонних компонентов - инструмент, который осуществляет поиск уязвимостей в сторонних open-source компонентах, подключенных к проекту. 
 #### Бесплатные / Open-source
-* [Dependency aeck](https://github.com/jeremylong/DependencyCheck)
+* [Dependency check](https://github.com/jeremylong/DependencyCheck)
 * [Dependency Track](https://dependencytrack.org/)
 * [Nexus Vulnerability Scanner](https://www.sonatype.com/appscan)
 * [ClearlyDefined](https://clearlydefined.io/?sortDesc=true&sort=releaseDate)
