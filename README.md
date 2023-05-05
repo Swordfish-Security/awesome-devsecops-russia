@@ -2,7 +2,7 @@
 
 ![DevSecOps-Russia](https://github.com/Swordfish-Security/awesome-devsecops-russia/blob/master/Awesome-DevSecOps.png)
 
-Полная обновляемая подборка материалов по безопасной разработке, DevSecOps и SSDLC на русском языке.
+Полная обновляемая подборка материалов по безопасной разработке, DevSecOps и SSDLC на русском языке
 
 # Содержание
 * [Каналы](#каналы)
@@ -22,6 +22,7 @@
    * [Динамические анализаторы приложений (DAST)](#динамические-анализаторы-приложений-dast)
    * [Поиск секретов](#поиск-секретов)
    * [Анализаторы сторонних компонентов (SCA)](#анализаторы-сторонних-компонентов-sca)
+   * [Анализаторы open-source компонентов (OSA)](#анализаторы-open-source-компонентов-osa)
    * [Тестирование по принципам Behaviour Driven Development](#тестирование-по-принципам-behaviour-driven-development)
    * [Сканеры Docker образов](#сканеры-docker-образов)
    * [Проверка Docker / Kubernetes на соответствие](#проверка-docker--kubernetes-на-соответствие)
@@ -31,7 +32,9 @@
    * [Runtime Security](#runtime-security)
    * [IAST](#iast)
    * [Fuzzing](#fuzzing)
+   * [MAST](#mast)
    * [Vulnerability Management](#vulnerability-management)
+   * [ASOC](#application-security-orchestration-and-correlation-asoc)
    * [Compliance-as-code](#compliance-as-code)
    * [IAC Security](#iac-security)
    * [Безопасность AWS](#безопасность-aws)
@@ -40,13 +43,18 @@
 
 ## Каналы
 * [DevSecOps Wine](https://t.me/sec_devops)
+* [DevSecOps Talks](https://t.me/devsecops_weekly)
 * [Технологический Болт Генона](https://t.me/tech_b0lt_Genona)
 * [k8s (in)security](https://t.me/k8security)
-* [DevSecOps Talks](https://t.me/devsecops_weekly)
+* [Mobile AppSec World](https://t.me/mobile_appsec_world)
+* [Кавычка](https://t.me/webpwn)
+* [AppSec Ezine (регулярные подборки)](https://github.com/Simpsonpt/AppSecEzine)
 
 ## Чаты
 * [DevSecOps - русскоговорящее сообщество](https://t.me/devsecops_ru)
 * [DevSecOps Wine Chat](https://t.me/sec_devops_chat)
+* [RU.CodeQL](https://t.me/codeql)
+* [r0 Crew (Fuzzing)](https://t.me/r0_fuzzing)
 
 ## Статьи
 ### Dev
@@ -154,11 +162,13 @@
 
 ## Курсы
 * ["Основные сведения об обеспечении безопасности с помощью моделирования угроз", Microsoft](https://docs.microsoft.com/ru-ru/learn/paths/tm-threat-modeling-fundamentals/#)
-* [Security Courses by Yandex](http://securitygym.ru/)
+* [FuzzingLabs](https://www.youtube.com/@fuzzinglabs)
+* [Яндекс ШКИБ 2018](https://www.youtube.com/playlist?list=PLQC2_0cDcSKD_JHWtEJGIFQUVh7Z5JM8E)
+* [Яндекс ШКИБ 2023](https://www.youtube.com/watch?v=jp7rF3dsdMo&list=PLQC2_0cDcSKD_JHWtEJGIFQUVh7Z5JM8E&index=1)
 
 ## Инструменты
 ### Инструменты для моделирования угроз (Threat modeling)
-Моделирование угроз в контексте Secure Development Lifecycle представляет из себя процесс анализа архитектуры ПО на предмет наличия в ней потенциальных уязвимостей и небезопасных технологий. Чтобы сократить расходы на добавление дополнительного функционала с точки зрения безопасности, решением может являться внедрение процесса проверок ИБ еще на этапе проектирования архитектуры. На этом же этапе формируются требования со стороны специалистов по безопасности приложений, которые в дальнейшем пойдут в backlog. 
+Моделирование угроз в контексте Secure Development Lifecycle представляет из себя процесс анализа архитектуры ПО на предмет наличия в ней потенциальных уязвимостей и небезопасных технологий. Чтобы сократить расходы на добавление дополнительного функционала с точки зрения безопасности, решением может являться внедрение процесса проверок ИБ еще на этапе проектирования архитектуры. На этом же этапе формируются требования со стороны специалистов по безопасности приложений, которые в дальнейшем пойдут в backlog
 #### Бесплатные / Open-source
 * [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 * [Pytm](https://github.com/izar/pytm)
@@ -174,28 +184,30 @@
 * [Awesome threat modeling](https://github.com/hysnsec/awesome-threat-modelling)
 
 ### Статические анализаторы приложений (SAST)
-Статический анализатор кода - инструмент, сообщающий об уязвимости приложения, ориентируясь на исходные коды приложения.
+Статический анализатор кода - инструмент, сообщающий об уязвимости приложения, ориентируясь на исходные коды приложения
 #### Бесплатные / Open-source универсальные средства
 * [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan)
 * [Salus](https://github.com/coinbase/salus)
 * [Semgrep](https://semgrep.dev/editor)
 * [HuskyCI](https://github.com/globocom/huskyci)
 * [CodeQL](https://securitylab.github.com/tools/codeql)
-* [Консоль LGTM для CodeQL](https://semmle.com/lgtm)
+* [Joern](https://github.com/joernio/joern)
+* [Graudit](https://github.com/wireghoul/graudit/)
+* [RIPS](https://github.com/robocoder/rips-scanner)
 #### Коммерческие / Enterprise 
 * [Checkmarx](https://www.checkmarx.com/)
-* [FortifySCA](https://www.microfocus.com/en-us/solutions/application-security)
+* [FortifySAST](https://www.microfocus.com/en-us/cyberres/application-security/static-code-analyzers)
 * [PT AI](https://www.ptsecurity.com/ww-en/products/ai/)
-* [PVS-Studio](https://www.viva64.com/ru/sast/)
-* [RIPS](https://www.ripstech.com/)
-* [Solar AppScreener](https://solarappscreener.com/)
+* [PVS-Studio](https://pvs-studio.ru/ru/pvs-studio/sast/)
+* [Solar AppScreener](https://rt-solar.ru/products/solar_appscreener/)
 * [Veracode Static Analysis](https://www.veracode.com/products/binary-static-analysis-sast)
+* [Svace](https://www.ispras.ru/technologies/svace/)
 #### Другие подборки с описанием SAST под конкретный язык
 * [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 * [Static Analysis Tools](https://github.com/analysis-tools-dev/static-analysis)
 
 ### Динамические анализаторы приложений (DAST)
-Динамический анализатор кода - инструмент, сообщающий об уязвимости приложения, ориентируясь на ответы сервера по заданным запросам.
+Динамический анализатор кода - инструмент, сообщающий об уязвимости приложения, ориентируясь на ответы сервера по заданным запросам
 #### Бесплатные / Open-source
 * [Arachni](https://github.com/Arachni/arachni)
 * [OWASP ZAP](https://github.com/zaproxy/zaproxy)
@@ -203,19 +215,23 @@
 * [nikto](https://github.com/sullo/nikto)
 * [nerve](https://github.com/PaytmLabs/nerve)
 * [Nuclei](https://github.com/projectdiscovery/nuclei)
+* [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool)
+* [Wapiti](https://github.com/wapiti-scanner/wapiti)
+* [Vega](https://github.com/subgraph/Vega)
 #### Коммерческие / Enterprise 
 * [PortSwigger Burp Suite](https://portswigger.net/burp)
 * [NetSparker](https://www.netsparker.com/)
 * [Acunetix](https://www.acunetix.com/)
 * [WebInspect](https://www.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview)
 * [PT AI](https://www.ptsecurity.com/ww-en/products/ai/)
+* [PT BB](https://www.ptsecurity.com/ru-ru/products/blackbox/)
 * [Veracode Dynamic Analysis](https://www.veracode.com/products/dynamic-analysis-dast)
 * [Tenable Web App Scanning](https://www.tenable.com/products/tenable-io/web-application-scanning)
 #### Другие подборки
 * [Awesome DAST](https://github.com/analysis-tools-dev/dynamic-analysis/)
 
 ### Поиск секретов
-Инструмент для поиска чувствительной информации.
+Инструменты для поиска чувствительной информации
 #### Бесплатные / Open-source
 * [git-secrets](https://github.com/awslabs/git-secrets)
 * [Gitrob](https://github.com/michenriksen/gitrob)
@@ -226,11 +242,14 @@
 * [GitLab Watchman](https://github.com/PaperMtn/gitlab-watchman)
 * [Rusty Hog](https://github.com/newrelic/rusty-hog)
 * [Semgrep](https://semgrep.dev/secret)
+* [detect-secrets](https://github.com/Yelp/detect-secrets)
+* [repo-supervisor](https://github.com/auth0/repo-supervisor)
 #### Коммерческие / Enterprise 
 * [GitGuardian](https://www.gitguardian.com/community)
+* [SpectralOps](https://spectralops.io/)
 
 ### Анализаторы сторонних компонентов (SCA) 
-Анализатор сторонних компонентов - инструмент, который осуществляет поиск уязвимостей в сторонних open-source компонентах, подключенных к проекту. 
+Анализатор сторонних компонентов - инструмент, который осуществляет поиск уязвимостей в сторонних open-source компонентах, подключенных к проекту
 #### Бесплатные / Open-source
 * [Dependency check](https://github.com/jeremylong/DependencyCheck)
 * [Dependency Track](https://dependencytrack.org/)
@@ -248,14 +267,19 @@
 #### Другие подборки
 * [OWASP Composition Analysis](https://owasp.org/www-community/Component_Analysis)
 
+### Анализаторы open-source компонентов (OSA)
+Анализаторы open-source компонентов обеспечивает контроль безопасности компонент с открытым исходным кодом при попадании в периметр разработки
+#### Коммерческие / Enterprise
+* [Фактор](https://факторсекьюрити.рф/)
+
 ### Тестирование по принципам Behaviour Driven Development
-Фреймворк, позволяющий описывать проверки по методологии BDD.
+Фреймворки, позволяющий описывать проверки по методологии BDD
 #### Бесплатные / Open-source
 * [BDD-Security](https://github.com/iriusrisk/bdd-security)
 * [Gauntlt](https://github.com/gauntlt/gauntlt)
 
 ### Сканеры Docker образов
-Инструменты, направленные на поиск уязвимостей в образах контейнеров.
+Инструменты, направленные на поиск уязвимостей в образах контейнеров
 #### Бесплатные / Open-source
 * [Clair](https://github.com/quay/clair)
 * [Trivy](https://github.com/aquasecurity/trivy)
@@ -276,7 +300,7 @@
 * [Awesome Docker Security](https://github.com/myugan/awesome-docker-security)
 
 ### Проверка Docker / Kubernetes на соответствие
-Инструмент для проверки хоста/dockerd/сборки на соответствии (CIS/PCI DSS и другие).
+Инструменты для проверки хоста/dockerd/сборки на соответствие (CIS/PCI DSS и другие)
 #### Бесплатные / Open-source
 * [Docker bench](https://github.com/docker/docker-bench-security)
 * [Dockle](https://github.com/goodwithtech/dockle)
@@ -284,7 +308,7 @@
 * [Kubernetes Auto Analyzer](https://github.com/nccgroup/kube-auto-analyzer)
 
 ### Безопасность Kubernetes
-Инструмент для проверки безопасности Kubernetes.
+Инструменты для проверки безопасности Kubernetes
 #### Бесплатные / Open-source
 * [Kubehunter](https://github.com/aquasecurity/kube-hunter)
 * [KubiScan](https://github.com/cyberark/KubiScan)
@@ -302,11 +326,11 @@
 * [Awesome k8s Security](https://github.com/magnologan/awesome-k8s-security)
 
 ### Container Runtime
-Инструмент для отслеживания поведения контейнеров в Runtime.
+Инструменты для отслеживания поведения контейнеров в Runtime
 #### Бесплатные / Open-source
 * [Sysdig Falco](https://github.com/falcosecurity/falco)
 * [Deepfence Runtime Threat Mapper](https://github.com/deepfence/ThreatMapper)
-
+* [Stackrox](https://github.com/stackrox/)
 ### Коммерческие комплексные решения Cloud Native Security Platform
 * [Aqua CSP](https://www.aquasec.com/aqua-cloud-native-security-platform/)
 * [Luntry](https://luntry.ru/)
@@ -320,14 +344,17 @@
 * [Qualys Container Security](https://www.qualys.com/apps/container-security/)
 
 ### Runtime Security 
-Инструмент для проверки веб-приложений в режиме runtime
+Инструменты для проверки веб-приложений в Runtime
 #### Бесплатные / Open-source
 * [RASP](https://github.com/baidu/openrasp)
+* [Modsecurity](https://github.com/SpiderLabs/ModSecurity)
+* [Dynatrace Community Edition](https://github.com/Dynatrace)
 #### Коммерческие / Enterprise 
 * [Sqreen](https://www.sqreen.com/platform?utm_medium=social&utm_source=blog&utm_campaign=header&utm_term=Product)
+* [Waratek](https://waratek.com/)
 
 ### IAST
-Инструмент, совмещающий практики SAST и DAST.
+Инструменты, совмещающие практики SAST и DAST
 #### Бесплатные / Open-source
 * [Contrast](https://www.contrastsecurity.com/contrast-community-edition)
 #### Коммерческие / Enterprise 
@@ -338,14 +365,32 @@
 * [Burp IAST](https://portswigger.net/burp/documentation/infiltrator)
 
 ### Fuzzing
-Практика тестирования приложения, при которой на вход программе подаются данные, которые могут привести к неопределенному поведению.
+Практика тестирования приложения, при которой на вход программе подаются данные, которые могут привести к неопределенному поведению
+#### Бесплатные / Open-source
+* [AFL++](https://github.com/AFLplusplus/AFLplusplus)
+* [LibFuzzer](https://llvm.org/docs/LibFuzzer.html)
+* [Peach](https://github.com/MozillaSecurity/peach)
+* [Syzkaller](https://github.com/google/syzkaller)
+* [restler-fuzzer](https://github.com/microsoft/restler-fuzzer)
+* [Skipfish](https://github.com/spinkham/skipfish)
 #### Другие подборки
 * [Awesome Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme)
 * [Fuzzing Paper Collection](https://github.com/0xricksanchez/paper_collection)
 * [Fuzzing Papper](https://github.com/wcventure/FuzzingPaper)
+* [Репозиторий oss-fuzz от Google](https://github.com/google/oss-fuzz)
+
+### MAST
+Инструменты для проверки мобильных приложений
+#### Бесплатные / Open-source
+* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+* [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+* [Drozer](https://github.com/WithSecureLabs/drozer)
+#### Коммерческие / Enterprise
+* [Stingray](https://stingray-mobile.ru/)
+* [Appknox](https://www.appknox.com/)
 
 ### Vulnerability Management
-Инструмент, собирающий и агрегирующий результаты проверки сторонних инструментов.
+Инструменты, собирающие и агрегирующие результаты проверки сторонних инструментов
 #### Бесплатные / Open-source
 * [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
 * [Secure code Box](https://github.com/secureCodeBox/secureCodeBox)
@@ -353,23 +398,30 @@
 * [Faraday](https://github.com/infobyte/faraday)
 * [VulnReport](https://github.com/salesforce/vulnreport)
 #### Коммерческие / Enterprise 
-* [AppSec.Hub](https://hub.appsec.global/)
 * [ThreatFix](https://threadfix.it/)
 * [Kenna Security](https://www.kennasecurity.com/)
 
+### Application Security Orchestration and Correlation (ASOC)
+Инструменты, оркестрирующие проверки сторонних инструментов
+#### Коммерческие / Enterprise 
+* [AppSec.Hub](https://appsec-hub.ru/)
+* [Kondukto](https://kondukto.io/)
+* [Orchestron](https://orchestron.io/)
+
 ### Compliance-as-code
-Практика представления требований безопасности через декларативное описание в виде кода с целью дальнейшей непрерывной оценки на соответствие.
+Практика представления требований безопасности через декларативное описание в виде кода с целью дальнейшей непрерывной оценки на соответствие
 #### Бесплатные / Open-source
 * [Chef InSpec](https://github.com/inspec/inspec)
 * [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
 
 ### IAC Security
-Практика тестирования декларативного описания инфраструктуры через конфигурационные файлы на соответствие требования безопасности.
+Практика тестирования декларативного описания инфраструктуры через конфигурационные файлы на соответствие требования безопасности
 * [Cfn Nag](https://github.com/stelligent/cfn_nag)
 * [Checkov](https://github.com/bridgecrewio/checkov)
 * [Terrascan](https://github.com/cesar-rodriguez/terrascan)
 * [Tfsec](https://github.com/liamg/tfsec)
 * [kics](https://www.kics.io/)
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 #### Kubernetes YAML validating
 * [Kubeval](https://github.com/instrumenta/kubeval)
 * [Kube-score](https://github.com/zegl/kube-score)
@@ -382,10 +434,9 @@
 * [tool-compare](https://github.com/iacsecurity/tool-compare)
 
 ### Безопасность AWS
-Инструменты для проверки безопасности AWS.
+Инструменты для проверки безопасности AWS
 #### Бесплатные / Open-source
 * [AWS-inventor](https://github.com/nccgroup/aws-inventory)
-* [aws_key_triage_tool](https://github.com/cedowens/aws_key_triage_tool)
 * [Aws-public-ips](https://github.com/arkadiyt/aws_public_ips)
 * [CloudSploit](https://github.com/cloudsploit/scans)
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
@@ -396,7 +447,7 @@
 * [Cloud Security Tools by Cloudberry Engineering](https://cloudberry.engineering/tool/)
 
 ### Безопасность GCP
-Инструменты для проверки безопасности GCP.
+Инструменты для проверки безопасности GCP
 #### Бесплатные / Open-source
 * [G-Scout](https://github.com/nccgroup/G-Scout)
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
