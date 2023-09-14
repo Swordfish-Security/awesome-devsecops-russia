@@ -251,6 +251,7 @@
 ### Анализаторы сторонних компонентов (SCA) 
 Анализатор сторонних компонентов - инструмент, который осуществляет поиск уязвимостей в сторонних open-source компонентах, подключенных к проекту
 #### Бесплатные / Open-source
+* [ABOM](https://vulert.com/abom)
 * [Dependency check](https://github.com/jeremylong/DependencyCheck)
 * [Dependency Track](https://dependencytrack.org/)
 * [Nexus Vulnerability Scanner](https://www.sonatype.com/appscan)
@@ -259,6 +260,7 @@
 * [Dependabot](https://dependabot.com/)
 #### Коммерческие / Enterprise 
 * [Sonatype Nexus IQ](https://www.sonatype.com/nexus/iqserver)
+* [Vulert](https://vulert.com)
 * [Veracode SCA](https://www.veracode.com/products/software-composition-analysis)
 * [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
 * [WhiteSource for Developers](https://www.whitesourcesoftware.com/whitesource-for-developers/)
